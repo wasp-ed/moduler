@@ -30,6 +30,8 @@ Utifrån hur vi förstår den generativa AI:n som hjälpmedel behöver vi ställ
 
 [Generativ AI och kunskap.mp4](https://youtu.be/s8zLhjEnals?si=EkI8A9mfx68fKKOL)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s8zLhjEnals?si=BxT1vrsMXRXdsDeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Film 2** **Hur kan vi använda generativ AI inom högre utbildning?**
 
 [Generativ AI i utbildning.mp4](https://cloud.oru.se/s/ZMTHwikb2m83int)
