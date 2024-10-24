@@ -1,8 +1,5 @@
 # Kompetensutvecklande aktivitet 1 – Introduktion till AI
 
-[![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
-
-
 _Ladda ner beskrivningen som pdf_:  _[Beskrivning modul 1.pdf](https://forum.sunet.se/file/file/download?guid=cda7bdc7-f768-43b1-8960-76a4c5793819)_
 
 Mål:
