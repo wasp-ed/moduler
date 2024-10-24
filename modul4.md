@@ -64,7 +64,8 @@ Observatören förbereder sig att på 3 minuter sammanfatta diskussionen som hel
 - Hur flöt diskussionen?
 - Fanns det några trösklar i diskussionen och i så fall vilka var de?
 - Vilka särskilt intressanta inlägg noteras?
-- **4\.       Sammanfatta diskussionen i grupp (6 x 3 minuter)**
+
+**4\.       Sammanfatta diskussionen i grupp (6 x 3 minuter)**
 
 Ordföranden låter varje deltagare återge sin sammanfattning under en minut vardera och ger avslutningsvis observatören de sista 3 minuterna för att återge sin sammanfattning.
 
