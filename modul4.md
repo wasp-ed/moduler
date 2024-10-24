@@ -10,8 +10,7 @@
 - Att utveckla en grundläggande förståelse och identifiera några användningsområden för Learning Analytics inom högre utbildning
 
 **Nyckelord**:
-- Learning Analytics
-- Generativ AI
+- Learning Analytics, generativ AI
 
 # Information om modulen
 
