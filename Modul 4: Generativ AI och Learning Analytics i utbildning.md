@@ -1,4 +1,4 @@
-_Ladda ner beskrivningen som pdf: [Beskrivning modul 4.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/Modul%204%20Generativ%20AI%20i%20utbildning%20version%205%20(240311)%20(1).pdf)")_
+_Ladda ner beskrivningen som pdf: [Beskrivning modul 4.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/Modul%204%20Generativ%20AI%20i%20utbildning%20version%205%20(240311)%20(1).pdf)
 
 **Målgrupp**\:  Lärare inom högre utbildning
 
