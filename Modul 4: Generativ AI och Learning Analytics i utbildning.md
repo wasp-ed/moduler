@@ -1,4 +1,3 @@
-_**Obs! Revidering av modulen är sedan konferensen 7-8 mars påbörjad och pågående. Lägg gärna in kommentarer i den [tråd](https://forum.sunet.se/content/perma?id=35771 "tråd ") som finns på startsidan “flöde” här i forumet.**_
 
 - _**Målen är något omformulerade för att bli snävare och tydligare.**_
 - _**Inledningstexten är förkortad.**_
