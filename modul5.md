@@ -2,11 +2,11 @@
 
 _Ladda ner beskrivningen som pdf: [Beskrivning modul 5.pdf](file-guid:813806b6-ef0f-4eee-8199-267d1a83e43d)_
 
-Mål: \
-Att kunna relatera AI till sin egen disciplin och lärarpraktik
+Mål: 
+- Att kunna relatera AI till sin egen disciplin och lärarpraktik
 
-Nyckelord: \
-Ämnesspecifik AI, ämnesdidaktiska AI-tillämpningar
+Nyckelord: 
+- Ämnesspecifik AI, ämnesdidaktiska AI-tillämpningar
 
 ## Information om modulen
 
