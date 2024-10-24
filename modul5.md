@@ -6,7 +6,8 @@ Mål:
 - Att kunna relatera AI till sin egen disciplin och lärarpraktik
 
 Nyckelord: 
-- Ämnesspecifik AI, ämnesdidaktiska AI-tillämpningar
+- Ämnesspecifik AI
+- Ämnesdidaktiska AI-tillämpningar
 
 ## Information om modulen
 
