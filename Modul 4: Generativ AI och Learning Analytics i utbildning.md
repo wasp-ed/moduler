@@ -25,13 +25,9 @@ Utifrån hur vi förstår den generativa AI:n som hjälpmedel behöver vi ställ
 
 **Film 1** **Hur påverkar tillgången till generativ AI vår syn på och värdering av kunskap och lärande?**
 
-![](file-guid:10eb0885-2b8b-4b0a-89c5-772d90218b10 "Film 1 bild.png")
-
 [Generativ AI och kunskap.mp4](https://gunet-my.sharepoint.com/:v:/g/personal/thomas_hillman_ait_gu_se/EYsOkHi8bpFIv-in5k_ja5sBh6_HOkG1CiXgkOnr6o_zhw?e=vCsX2d)
 
 **Film 2** **Hur kan vi använda generativ AI inom högre utbildning?**
-
-![](file-guid:7158a386-b578-4774-a2b2-abda5048b3d8 "Film 2 bild.png")
 
 [Generativ AI i utbildning.mp4](https://cloud.oru.se/s/ZMTHwikb2m83int)
 
