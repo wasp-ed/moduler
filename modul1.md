@@ -1,6 +1,6 @@
 # Kompetensutvecklande aktivitet 1 – Introduktion till AI
 
-_Ladda ner beskrivningen som pdf_:  [Beskrivning modul 1.pdf](filer/modul1.pdf)
+_Ladda ner beskrivningen som pdf_:  [Beskrivning modul 1.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/modul1.pdf)
 
 Mål:
 
