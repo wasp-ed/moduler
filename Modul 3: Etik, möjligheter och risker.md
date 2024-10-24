@@ -25,11 +25,11 @@ Titta på:
 
 How I'm fighting bias in algorithms \| Joy Buolamwini (9 min)
 
-[https://www.youtube.com/watch?v=UG_X_7g63rY](oembed:https://www.youtube.com/watch?v=UG_X_7g63rY)
+[https://www.youtube.com/watch?v=UG_X_7g63rY]
 
 AI, ain’t I a Woman? - Joy Buolamwini (3 min)
 
-[https://youtu.be/QxuyfWoVV98](oembed:https://youtu.be/QxuyfWoVV98)
+[https://youtu.be/QxuyfWoVV98]
 
 Läs:
 
