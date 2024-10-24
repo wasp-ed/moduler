@@ -1,11 +1,11 @@
 # Kompetensutvecklande aktivitet 2 – Praktiskt arbete med AI
 
-_Ladda ner beskrivningen som pdf: [Beskrivning modul 2.pdf](https://github.com/wasp-ed/moduler/blob/502b932423f3458c375a166fbbfa3eda8d95265c/filer/modul2.pdf)_
+*Ladda ner beskrivningen som pdf:* [Beskrivning modul 2.pdf](https://github.com/wasp-ed/moduler/blob/502b932423f3458c375a166fbbfa3eda8d95265c/filer/modul2.pdf)_
 
-Mål:\
+Mål:
 -   Grundläggande förståelse för hur AI fungerar •	Begreppsförståelse
 
-Nyckelord:\
+Nyckelord:
 -   Maskininlärning, djupinlärning, neuronnät/neuralt nätverk, träningsdata
 
 ## Information om modulen
