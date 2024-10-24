@@ -1,5 +1,5 @@
 # WASP-ED
-## AI-kompetensutveckling för icke-tekniska universitetslärare
+## AI-kompetensutveckling för universitetslärare (utan specialistkunskap inom AI)
 
 **[Modul 1: Introduktion](https://github.com/wasp-ed/moduler/blob/main/modul1.md)**
 
