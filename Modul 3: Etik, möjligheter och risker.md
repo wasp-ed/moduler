@@ -1,6 +1,6 @@
 # Kompetensutvecklande aktivitet 3 – Etik, möjligheter och risker
 
-_Ladda ner beskrivningen som pdf_\: [Beskrivning modul 3.pdf](file-guid:d462713a-0417-4eaf-8c30-b4f39526581c)
+_Ladda ner beskrivningen som pdf_\: [Beskrivning modul 3.pdf]
 
 Mål:
 
