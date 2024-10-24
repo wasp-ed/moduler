@@ -132,8 +132,6 @@ Diskussionen avslutas med att observatören sammanfattar diskussionen utifrån o
 
 **Film 3** **Vad är Learning Analytics och hur kan den användas inom högre utbildning?**
 
-![](file-guid:c15e9125-df39-45d0-aa00-b6a7bbe32bb9 "Film 3 bild.png")
-
 [Learning Analytics.mp4](https://cloud.oru.se/s/TCxWXzzt34wy8qo)
 
 ## Reflekterande diskussion film 3
