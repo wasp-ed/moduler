@@ -3,7 +3,7 @@ _**Obs! Revidering av modulen är sedan konferensen 7-8 mars påbörjad och påg
 - _**Målen är något omformulerade för att bli snävare och tydligare.**_
 - _**Inledningstexten är förkortad.**_
 
-_Ladda ner beskrivningen som pdf: [Beskrivning modul 4.pdf](https://forum.sunet.se/file/file/download?download=1&hash_name=c014&guid=2f7b854c-652d-4a5d-a7a6-34d9b6cdb2a3&hash_sha1=68ea1127 "Beskrivning modul 4.pdf")_
+_Ladda ner beskrivningen som pdf: [Beskrivning modul 4.pdf](https://forum.sunet.se/file/file/download?download=1&hash_name=c014&guid=2f7b854c-652d-4a5d-a7a6-34d9b6cdb2a3&hash_sha1=68ea1127 "Beskrivning modul 4.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/Modul%204%20Generativ%20AI%20i%20utbildning%20version%205%20(240311)%20(1).pdf)")_
 
 **Målgrupp**\:  Lärare inom högre utbildning
 
