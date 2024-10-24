@@ -3,7 +3,8 @@
 *Ladda ner beskrivningen som pdf:* [Beskrivning modul 2.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/modul2.pdf)
 
 Mål:
--   Grundläggande förståelse för hur AI fungerar •	Begreppsförståelse
+-   Grundläggande förståelse för hur AI fungerar
+-   Begreppsförståelse
 
 Nyckelord:
 -   Maskininlärning, djupinlärning, neuronnät/neuralt nätverk, träningsdata
