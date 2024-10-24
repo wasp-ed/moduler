@@ -45,7 +45,7 @@ Deltagare inleder med att se en video som introducerar exemplet i MATLAB som de 
 
 Denna aktivitet går ut på att utforska djupinlärning med programmeringsmiljön MATLAB, genom enkel, praktisk kod. Exemplet bygger på bildigenkänning. I miljön har du möjlighet att experimentera med att justera såväl kod som källa för analys. Var inte rädd för att experimentera, om något blir tokigt är det bara att ladda om sidan.
 
-- Börja med att ta del av videon [![Prova djupinlärning med MATLAB](https://img.youtube.com/vi/ELIcLRsX_wQ/0.jpg)](https://www.youtube.com/watch?v=ELIcLRsX_wQ)
+- Börja med att ta del av videon [Prova djupinlärning med MATLAB](https://www.youtube.com/watch?v=ELIcLRsX_wQ)
 - Gå därefter till programmeringsmiljön MATLAB via [https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#](https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#) och klicka Launch the example
 - Titta på koden och experimentera genom att till exempel justera källa för bilden som ska analyseras. Gå tillbaka till videon vid behov.
 - Ladda om sidan om det blir problem eller om du vill nollställa allt och testa på nytt.
@@ -58,7 +58,7 @@ Innan träffen förbereder sig deltagarna med att se en introduktion till tjäns
 
 Denna aktivitet låter dig bygga neurala nätverk med Googles Teachable Machine. Den gör det möjligt att träna ett nätverk för att känna igen olika objekt, olika ljud eller olika kroppspositioner med hjälp av ett relativt enkelt visuellt gränssnitt. När du har skapat en "modell" kan du till och med exportera den och använda den på en webbplats eller på din dator för att utlösa saker som till exempel att spela ett ljud när någon ler på en webbkamera. Aktiviteten genomförs på plats, men du ska förbereda dig innan träffen med att titta på videon nedan.
 
-- Börja med att se videon innan du kommer till träffen. [https://www.youtube.com/watch?v=v5SE5_MpBiw](oembed:https://www.youtube.com/watch?v=v5SE5_MpBiw)
+- Börja med att se videon [Prova Googles Teachable machine](https://www.youtube.com/watch?v=v5SE5_MpBiw) innan du kommer till träffen. 
 - Vid träffen delas ni in i par för att genomföra arbetet.
 - Gå till Googles Teachable Machine via [https://teachablemachine.withgoogle.com/](https://teachablemachine.withgoogle.com/).
 - Testa att träna nätverket med olika saker, till exempel personer, objekt eller liknande.
