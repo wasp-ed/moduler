@@ -1,13 +1,15 @@
 *Ladda ner beskrivningen som pdf:* [Beskrivning modul 4.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/modul4.pdf)
 
-**Målgrupp**\:  Lärare inom högre utbildning
+**Målgrupp**:  Lärare inom högre utbildning
 
-**Mål**\:
+**Mål**:
 
 - Att utveckla en grundläggande förståelse och identifiera några användningsområden för generativ AI som hjälpmedel i undervisningspraktiken inom högre utbildning
 - Att utveckla en grundläggande förståelse och identifiera några användningsområden för Learning Analytics inom högre utbildning
 
-**Nyckelord**\: _Learning Analytics_, _generativ AI_
+**Nyckelord**:
+- Learning Analytics
+- Generativ AI
 
 # Information om modulen
 
