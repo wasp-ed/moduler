@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/modul1.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul1.en.md)
 # Kompetensutvecklande aktivitet 1 – Introduktion till AI
 
 
