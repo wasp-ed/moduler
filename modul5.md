@@ -1,6 +1,5 @@
 # Kompetensutvecklade aktivitet 5 – AI inom den egna disciplinen och lärarpraktiken
 
-*Ladda ner beskrivningen som pdf:* [Beskrivning modul 5.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/modul5.pdf)
 
 Mål: 
 - Att kunna relatera AI till sin egen disciplin och lärarpraktik
