@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/modul4.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul4.en.md)
 # Kompetensutvecklade aktivitet 4 – Generativ AI och Learning Analytics i utbildning
 
 **Målgrupp**:  Lärare inom högre utbildning
