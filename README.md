@@ -1,3 +1,4 @@
+[![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/README.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/README.en.md)
 # WASP-ED
 ## Resurser för att utveckla kompetensutveckling för universitetslärare (utan specialistkunskap inom AI)
