@@ -1,6 +1,5 @@
 # Kompetensutvecklande aktivitet 3 – Etik, möjligheter och risker
 
-_Ladda ner beskrivningen som pdf_\: [Beskrivning modul 3.pdf](https://github.com/wasp-ed/moduler/blob/main/filer/modul3.pdf)
 
 Mål:
 
