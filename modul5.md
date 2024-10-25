@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/modul5.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul5.en.md)
 # Kompetensutvecklade aktivitet 5 – AI inom den egna disciplinen och lärarpraktiken
 
 
