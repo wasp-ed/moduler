@@ -10,7 +10,7 @@ Learning outcome:
 
 Keywords:
 
--   Algorithmic discrimination, bias, surveillance, data storage, GDPR, integrity, power, monopoly, cheating
+Algorithmic discrimination, bias, surveillance, data storage, GDPR, integrity, power, monopoly, cheating
 
 Information about the module:
 
