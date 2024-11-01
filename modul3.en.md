@@ -52,7 +52,7 @@ Reflect on the content above. Is there any ethical aspect that you think is part
 
 ---
 
-_Gemensam fysisk träff alla deltagare + handledare (2 h)._
+_Joint physical meeting all participants + facilitator (2 h)._
 
 **Praktiskt arbete (60 min):**
 
