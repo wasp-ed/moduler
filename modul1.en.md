@@ -83,9 +83,11 @@ _Suggested to be carried out in slightly larger groups where several of the smal
 
 **Data**  – Information that is registered somewhere.
 
-**Training data**  – Data provided for training the systems in machine learning.
-
 **Algorithm**  – A sequence of instructions. Roughly like a recipe for baking.
+
+**Model** - The part of the software that is used to solve the problem, for example make a prediction.
+
+**Training data**  – Data provided for training the model in machine learning.
 
 **Machine learning**  – An important subfield within AI. Systems that get better at a given task as the amount of experience and data increases. It is divided into the following three main areas:
 
