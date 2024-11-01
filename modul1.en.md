@@ -104,3 +104,5 @@ _Suggested to be carried out in slightly larger groups where several of the smal
 **GAN**  – Short for Generative Adversarial Networks. A type of machine learning where two neural networks compete against each other. One network is trained to create "fake" data based on the training data and the other network is trained to determine what in a data set is "fake" and what is "genuine". Each of the networks is forced to become better in this competition as the other network gets better.
 
 **LLM**  – Short for Large Language Models. Very large neural networks trained on large amounts of text. A ready-made language model takes a text as input and repeatedly tries to predict the next word, producing a text as output. GPT-3 and GPT-4 on which different versions of ChatGPT are based are examples of large language models.
+
+**Generative AI**  - AI that can generate data: text, images, film and music.
