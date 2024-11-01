@@ -65,7 +65,7 @@ _Recommended to be carried out in smaller groups of 3–4 participants. The faci
 **\
 Break (15 min)**
 
-**Gemensam reflektion/diskussion (45 min):**
+**Joint reflection/discussion (45 min):**
 
 _Genomförs förslagsvis i lite större grupper där flera av de mindre grupperna slagits ihop alternativt med samtliga deltagare. Handledaren styr samtalet._
 
