@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/modul5.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul5en.md)
 # AI within one’s own discipline and teaching practice
 
 **Learning outcome:**
