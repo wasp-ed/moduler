@@ -26,78 +26,79 @@ All participants watch this film (subtitles in English are available):
 
 [Artificial Intelligence - An attempt to explain AI in a simple way](https://api.kaltura.nordu.net/p/315/sp/31500/embedIframeJs/uiconf_id/23450066/partner_id/315?iframeembed=true&playerId=kaltura_player&entry_id=0_s5gaq3u2&flashvars%5BstreamerType%5D=auto&flashvars%5BlocalizationCode%5D=en&flashvars%5BleadWithHTML5%5D=true&flashvars%5BsideBarContainer.plugin%5D=true&flashvars%5BsideBarContainer.position%5D=left&flashvars%5BsideBarContainer.clickToClose%5D=true&flashvars%5Bchapters.plugin%5D=true&flashvars%5Bchapters.layout%5D=vertical&flashvars%5Bchapters.thumbnailRotator%5D=false&flashvars%5BstreamSelector.plugin%5D=true&flashvars%5BEmbedPlayer.SpinnerTarget%5D=videoHolder&flashvars%5BdualScreen.plugin%5D=true&flashvars%5Bhotspots.plugin%5D=1&flashvars%5BKaltura.addCrossoriginToIframe%5D=true&&wid=0_zzcork45)  (14 min)
 
-All participants choose  _one_  of the following two tracks:
+All participants choose  _one_  of the following two tracks (only available in Swedish):
 
 Track 1 (less technical)
 
 [https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/](https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/)  (31 min)
 
-Hej AI – En introduktion till artificiell intelligens (2019)
+Hello AI – An Introduction to Artificial Intelligence (2019)
 
-Spår 2 (lite mer tekniskt)
+Track 2 (a bit more technical)
 
 [https://play.gu.se/media/t/0_44httdls](https://play.gu.se/media/t/0_44httdls)  (24 min)
 
-Introduktion till AI av Jonas Ivarsson (2019)
+Introduction to AI by Jonas Ivarsson (2019)
 
-Se till att listan med nyckelbegrepp finns tillgänglig för deltagarna som PDF.
+Make sure the list of key concepts is available to participants as a PDF.
 
-**Individuell förberedande reflektion (15 min):**
+**Individual reflection (15 min):**
 
--   Känner du till några tekniska lösningar idag som använder AI för att fungera?
--   Fundera över om det finns något du använder i din vardag och/eller i ditt arbetsliv som använder AI för att fungera.
--   Studera listan med nyckelbegrepp. Är några av begreppen helt nya för dig? I vilka sammanhang kan de olika typerna av maskininlärning användas tror du?
+-   Do you know of any technical solutions today that use AI to work?
+-   Consider whether there is something you use in your everyday life and/or in your work life that uses AI to function.
+-   Study the list of key concepts. Are any of the words completely new to you? In which contexts do you think the different types of machine learning can be used?
 
 ----------
 
-_Gemensam fysisk träff alla deltagare + handledare (1 h)._
+_Joint physical meeting all participants + facilitator (1 h)._
 
-**Praktiskt arbete (40 min):**
+**Practical work (40 min):**
 
-_Genomförs förslagsvis i mindre grupper om 3–4 deltagare. Handledaren går runt mellan grupperna och ser till att alla kommer i gång._
+_Recommended to be carried out in smaller groups of 3–4 participants. The facilitator moves between the groups and makes sure everyone gets started._
 
-1.  Gör en bildsökning på internet på orden ”Artificiell intelligens” och betrakta resultatet. Skriv ned fem ord som ni tycker beskriver bilderna som dyker upp.
-2.  Lista tre exempel över användningsområden där ni tror AI skulle passa bra som verktyg och motivera varför. Lista därefter tre exempel på problem som ni tror att vi inte skulle kunna eller helt enkelt inte borde lösa med AI och motivera varför.
-3.  Gör en internetsökning på ordet maskininlärning följt av era egna forskningsområden/fält. (Till exempel: maskininlärning sociologi). Hittar ni något intressant användningsområde för maskininlärning och kan ni i så fall läsa er till vilken typ av maskininlärning som användes? Hur kan maskininlärning vara behjälpligt i era forskningsområden eller de områden ni undervisar i? Diskutera.
-4.  Diskutera med varandra i gruppen. Vad kopplat både till AI som teknologi och det område ni undervisar i tycker ni är viktigt att era studenter lär sig? Vilka perspektiv behöver beaktas för att förbereda studenterna för kommande yrkesliv eller forskning?
+1. Do an image search on the internet for the words “Artificial Intelligence” and look at the results. Write down five words that you think describe the images that appear.
+2. List three examples of areas where you think AI would be of good use as a tool and explain why. Then list three examples of problems that you think we either couldn't or simply shouldn't solve using AI and explain why.
+3. Do an internet search on the word machine learning followed by your own research areas/fields. (For example: machine learning sociology). Do you find any interesting application for machine learning and if so, can you read what type of machine learning was used? How can machine learning be helpful in your research areas or the areas you teach? Discuss within the group.
+4. Discuss with each other in the group. What do you think is important for your students to learn, related to both AI as a technology and the area you teach? What perspectives need to be considered to prepare students for their future profession or research?
 
-**Gemensam reflektion/diskussion (20 min):**
 
-_Genomförs förslagsvis i lite större grupper där flera av de mindre grupperna slagits ihop alternativt med samtliga deltagare. Handledaren styr samtalet._
+**Joint reflection/discussion (20 min):**
 
--   Ger bilderna som dyker upp vid en bildsökning på ”Artificiell intelligens” en representativ bild av vad AI är tycker ni? Varför/varför inte?
--   Jämför era listor med varandra i grupp. Diskutera vad AI bör användas för och ifall det finns områden där vi borde undvika att använda AI?
--   Fundera över era sökträffar på maskininlärning. Inom vilka områden kan maskininlärning användas? Finns det några för er otippade användningsområden? Hur generell måste den artificiella intelligensen vara för att vara användbar?
--   Måste alla kunna något om AI? Är det viktigt? Varför/varför inte? Räcker det inte med att programmeraren förstår hur systemen fungerar?
+_Suggested to be carried out in slightly larger groups where several of the smaller groups have been combined, alternatively with all participants. The facilitator directs the conversation._
+
+-   Do the images that appear in an image search on "Artificial intelligence" give you a representative picture of what AI is? Why/why not?
+-   Compare your lists with each other. Discuss what AI should be used for and if there are areas where we should avoid using AI?
+-   Reflect on your machine learning search results. In which areas can machine learning be used? Are there any unexpected uses in your opinion? How general does Artificial Intelligence have to be to be useful?
+-   Does everyone have to know something about AI? Is it important? Why/why not? Is it not enough that the programmer understands how these systems work?
 
 ----------
 
 ## Nyckelbegrepp:
 
-**AI**  – Artificiell intelligens. Saknar entydig definition men syftar på mjukvara som i olika hög grad är autonom och adaptiv.
+**AI**  – Artificial Intelligence. Lacks one commonly agreed upon definition but refers to software that is autonomous and adaptive to some extent.
 
-**Autonomi**  – Förmåga att uträtta uppgifter i komplexa miljöer utan ständig styrning av användaren.
+**Autonomy**  – The ability to perform tasks in complex environments without constant guidance by the user.
 
-**Adaptivitet**  – Kapaciteten att förbättra sin prestationsförmåga genom att lära sig av erfarenheter.
+**Adaptivity**  – The ability to improve performance by learning from experience.
 
-**Data**  – Information som finns registrerad någonstans.
+**Data**  – Information that is registered somewhere.
 
-**Träningsdata**  – Den data som tillhandahålls för träning av systemen vid maskininlärning.
+**Training data**  – Data provided for training the systems in machine learning.
 
-**Algoritm**  – En följd av instruktioner. Som ett recept för bakning ungefär.
+**Algorithm**  – A sequence of instructions. Roughly like a recipe for baking.
 
-**Maskininlärning**  – Ett viktigt delområde inom AI. System som blir bättre på en given uppgift när mängden erfarenhet och data ökar. Delas in i följande tre huvudsakliga områden:
+**Machine learning**  – An important subfield within AI. Systems that get better at a given task as the amount of experience and data increases. It is divided into the following three main areas:
 
-**Övervakad inlärning**  – Sker genom att man förser nätverket med både data och facit.
+**Supervised learning**  – During the learning process providing the network with the “correct answer” along with the corresponding data.
 
-**Oövervakad inlärning**  – Innebär att nätverket får arbeta helt utan förkunskaper, det vill säga att maskin och algoritm får inhämta såväl indata som utfall på egen hand.
+**Unsupervised learning**  – Means that during learning the network works without a “correct answer”, i.e., that the machine and algorithm tries to find structure in the data on its own.
 
-**Förstärkt inlärning**  – Innebär att en eller flera algoritmer lär sig den rätta lösningen genom att prova sig fram och förstärka beteenden som leder till positivt resultat, samtidigt som mjukvaran försvagar beteenden som leder till negativt resultat.
+**Reinforcement learning**  – Involves one or more algorithms learning the correct solution by trial and error and reinforcing behaviours that lead to positive outcomes, while the software weakens behaviours that lead to negative outcomes.
 
-**Neuronnät**  – (Ibland  **neuralt nätverk**). En typ av struktur för programmering av mjukvara som lite löst bygger på de biologiska neuronnäten som finns i våra hjärnor.
+**Neural Network**  – A tool for solving machine learning problems. It is a structure for training a model that is loosely based on the biological neural networks found in our brains.
 
-**Djupinlärning**  – Ett viktigt delområde inom maskininlärning. Med djupinlärning finns det ett neuralt nätverk som innehåller flera lager av neuroner. (Icke djupinlärning innebär neurala nätverk med endast ett neuronlager.)
+**Deep learning**  – An important subfield of machine learning. In deep learning, there is a neural network containing many layers of neurons (non-deep learning involves neural networks with only one or a small number of layers of neurons).
 
-**GAN**  – Förkortning för Generative Adversarial Networks. En typ av maskininlärning där två neuronnät tävlar mot varandra. Det ena nätverket tränas att skapa ”fejkad” data utifrån träningsdatan och det andra nätverket tränas att avgöra vad i en datamängd som är ”fejk” och vad som är ”äkta”. Vart och ett av nätverken tvingas bli bättre i denna tävling i takt med att det andra nätverket blir bättre.
+**GAN**  – Short for Generative Adversarial Networks. A type of machine learning where two neural networks compete against each other. One network is trained to create "fake" data based on the training data and the other network is trained to determine what in a data set is "fake" and what is "genuine". Each of the networks is forced to become better in this competition as the other network gets better.
 
-**LLM**  – Förkortning för Large Language Models (Stora språkmodeller). Mycket stora neuronnät som tränats på stora mängder text. En färdig språkmodell tar en text som är inmatad som input och försöker upprepade gånger förutsäga nästa ord vilket ger en text som output. GPT-3 och GPT-4 som olika versioner av tjänsten ChatGPT bygger på är exempel på stora språkmodeller.
+**LLM**  – Short for Large Language Models. Very large neural networks trained on large amounts of text. A ready-made language model takes a text as input and repeatedly tries to predict the next word, producing a text as output. GPT-3 and GPT-4 on which different versions of ChatGPT are based are examples of large language models.
