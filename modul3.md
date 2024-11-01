@@ -10,7 +10,7 @@ Mål:
 
 Nyckelbegrepp:
 
--   Algoritmisk diskriminering, bias (vinkling), övervakning, datalagring, GDPR, integritet, makt, monopol, fusk
+Algoritmisk diskriminering, bias (vinkling), övervakning, datalagring, GDPR, integritet, makt, monopol, fusk
 
 Information om modulen:
 
