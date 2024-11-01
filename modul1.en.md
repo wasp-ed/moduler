@@ -12,9 +12,9 @@ Keywords:
 
 AI, data, training data, machine learning, supervised learning, unsupervised learning, reinforcement learning, deep learning, algorithm, neural network, autonomy, adaptivity, GAN, LLM
 
-Information om modulen:
+Information about the module:
 
-Denna modul är tänkt att genomföras i två steg. Deltagarna får först förbereda sig individuellt (1 h) för att sedan delta vid en gemensam fysisk träff med de andra deltagarna (1 h). Se till att material och frågor för förberedelsen finns tillgängligt för deltagarna under förberedelsetiden. Den gemensamma träffen leds av en handledare. Deltagarna behöver vid det tillfället ha tillgång till någon digital enhet (dator, mobil, e. dyl.) Total tidsåtgång för både förberedelse och genomförande är tänkt att vara 2 h.
+This module is intended to be completed in two stages. The participants must first prepare individually (1 h) and then participate in a joint physical meeting with the other participants (1 h). Make sure that materials and questions for the preparation are available to the participants during the preparation time. The joint meeting is led by a supervisor. At that time, the participants need to have access to some digital device (computer, mobile, etc.) Total time required for both preparation and implementation is supposed to be 2 hours.
 
 ----------
 
