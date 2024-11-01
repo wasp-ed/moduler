@@ -82,9 +82,11 @@ _Genomförs förslagsvis i lite större grupper där flera av de mindre gruppern
 
 **Data**  – Information som finns registrerad någonstans.
 
-**Träningsdata**  – Den data som tillhandahålls för träning av systemen vid maskininlärning.
-
 **Algoritm**  – En följd av instruktioner. Som ett recept för bakning ungefär.
+
+**Modell** - Den del av mjukvaran som används för att lösa problemet, till exempel förutsäga något.
+
+**Träningsdata**  – Den data som tillhandahålls för träning av modellen vid maskininlärning.
 
 **Maskininlärning**  – Ett viktigt delområde inom AI. System som blir bättre på en given uppgift när mängden erfarenhet och data ökar. Delas in i följande tre huvudsakliga områden:
 
@@ -94,7 +96,7 @@ _Genomförs förslagsvis i lite större grupper där flera av de mindre gruppern
 
 **Förstärkt inlärning**  – Innebär att en eller flera algoritmer lär sig den rätta lösningen genom att prova sig fram och förstärka beteenden som leder till positivt resultat, samtidigt som mjukvaran försvagar beteenden som leder till negativt resultat.
 
-**Neuronnät**  – (Ibland  **neuralt nätverk**). En typ av struktur för programmering av mjukvara som lite löst bygger på de biologiska neuronnäten som finns i våra hjärnor.
+**Neuronnät**  – (Ibland  **neuralt nätverk**). Ett verktyg för att lösa ett maskininlärningsproblem. Det är en struktur för att träna en modell som lite löst bygger på de biologiska neuronnäten som finns i våra hjärnor.
 
 **Djupinlärning**  – Ett viktigt delområde inom maskininlärning. Med djupinlärning finns det ett neuralt nätverk som innehåller flera lager av neuroner. (Icke djupinlärning innebär neurala nätverk med endast ett neuronlager.)
 
