@@ -3,14 +3,14 @@
 # Ethics, opportunities and risks
 
 
-Mål:
+Learning outcome:
 
-- Reflektera kring etiska aspekter
-- Värdera potentiella möjligheter och risker med användandet av AI
+- Reflect on ethical aspects
+- Evaluate the potential opportunities and risks of using AI
 
-Nyckelbegrepp:
+Keywords:
 
--   Algoritmisk diskriminering, bias (vinkling), övervakning, datalagring, GDPR, integritet, makt, monopol, fusk
+-   Algorithmic discrimination, bias, surveillance, data storage, GDPR, integrity, power, monopoly, cheating
 
 Information om modulen:
 
