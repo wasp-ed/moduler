@@ -58,12 +58,12 @@ _Joint physical meeting all participants + facilitator (2 h)._
 
 _Recommended to be carried out in smaller groups of 3–4 participants. The facilitator moves between the groups and makes sure everyone gets started._
 
-1. Hitta på och beskriv någon tillämpning av AI som enligt er mening skulle vara olämplig ur ett etiskt perspektiv! Utgå ifrån en eller flera av nyckelbegreppen till denna modul. Tillåt er att vara lite dystopiska och beskriv så detaljerat som möjligt. Motivera även tydligt varför er tillämpning är olämplig.
-2. Generativ AI använder maskininlärning där en modell tränas på sådan data som man vill lära modellen att skapa. På senare tid har vi sett hur flera tjänster poppat upp som kan generera både text, bilder och musik. Träningsdatan är nästan alltid insamlad via internet av stora företag som till exempel Google eller Microsoft där miljontals användare utan ersättning bidragit med data. Tjänster baserade på dessa modeller säljs sedan vidare på prenumerationsbasis till de som har råd. Föreställ er att det vore annorlunda. Beskriv ett scenario där generativ AI kan utvecklas i en annan riktning och användas på ett etiskt försvarbart sätt för att hjälpa alla människor lösa en del av de globala problem och utmaningar vi står inför!
-3. Sök bland nyhetsartiklar via internet efter minst tre exempel på hur AI används för övervakning av folket i mer eller mindre auktoritära stater. Hjälp varandra i gruppen att vara källkritiska och dubbelkolla gärna den information ni hittar mot flera källor!
+1. Invent and describe any application of AI that in your opinion would be inappropriate from an ethical perspective! Start from one or more of the key concepts for this module. Allow yourself to be a little dystopian and describe in as much detail as possible. Explain clearly why your application is inappropriate.
+2. Generative AI uses machine learning where a model is trained on data that you want to teach the model to create. Recently, we have seen how several services have popped up that can generate both text, images and music. The training data is almost always collected via the internet by large companies such as Google or Microsoft, where millions of users have contributed data without compensation. Services based on these models are then resold on a subscription basis to those who can afford it. Imagine if it were different. Describe a scenario where generative AI can be developed in a different direction and used in an ethical way to help all people solve some of the global problems and challenges we face!
+3. Search among news articles on the Internet for at least three examples of how AI is used to monitor the people in states that are more or less authoritarian. Help each other in the group to be critical of sources and feel free to double-check the information you find against several sources!
 
 **\
-Rast (15 min)**
+Break (15 min)**
 
 **Gemensam reflektion/diskussion (45 min):**
 
