@@ -56,7 +56,7 @@ _Joint physical meeting all participants + facilitator (2 h)._
 
 **Practical work (60 min):**
 
-_Genomförs förslagsvis i mindre grupper om 3–4 deltagare. Handledaren går runt mellan grupperna och ser till att alla kommer i gång._
+_Recommended to be carried out in smaller groups of 3–4 participants. The facilitator moves between the groups and makes sure everyone gets started._
 
 1. Hitta på och beskriv någon tillämpning av AI som enligt er mening skulle vara olämplig ur ett etiskt perspektiv! Utgå ifrån en eller flera av nyckelbegreppen till denna modul. Tillåt er att vara lite dystopiska och beskriv så detaljerat som möjligt. Motivera även tydligt varför er tillämpning är olämplig.
 2. Generativ AI använder maskininlärning där en modell tränas på sådan data som man vill lära modellen att skapa. På senare tid har vi sett hur flera tjänster poppat upp som kan generera både text, bilder och musik. Träningsdatan är nästan alltid insamlad via internet av stora företag som till exempel Google eller Microsoft där miljontals användare utan ersättning bidragit med data. Tjänster baserade på dessa modeller säljs sedan vidare på prenumerationsbasis till de som har råd. Föreställ er att det vore annorlunda. Beskriv ett scenario där generativ AI kan utvecklas i en annan riktning och användas på ett etiskt försvarbart sätt för att hjälpa alla människor lösa en del av de globala problem och utmaningar vi står inför!
