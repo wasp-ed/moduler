@@ -7,7 +7,7 @@
 
 **[Module 2: Practical activities](https://github.com/wasp-ed/moduler/blob/main/modul2.en.md)**
 
-**[Module 3: Ethics, possibilities and risks](https://github.com/wasp-ed/moduler/blob/main/modul3.en.md)**
+**[Module 3: Ethics, opportunities and risks](https://github.com/wasp-ed/moduler/blob/main/modul3.en.md)**
 
 **[Module 4: Generative AI and Learning Analytics in education](https://github.com/wasp-ed/moduler/blob/main/modul4..en.md)**
 
