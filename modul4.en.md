@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/modul4.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul4.en.md)
-# Generativ AI and Learning Analytics in education
+# Generative AI and Learning Analytics in education
 
 **Learning outcome**:
 
