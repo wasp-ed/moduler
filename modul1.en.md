@@ -73,7 +73,7 @@ _Suggested to be carried out in slightly larger groups where several of the smal
 
 ----------
 
-## Nyckelbegrepp:
+## Key Concepts:
 
 **AI**  – Artificial Intelligence. Lacks one commonly agreed upon definition but refers to software that is autonomous and adaptive to some extent.
 
