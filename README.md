@@ -3,7 +3,7 @@
 # WASP-ED
 ## Resurser för att utveckla kompetensutveckling för universitetslärare (utan specialistkunskap inom AI)
 
-**[Modul 1: Introduktion](https://github.com/wasp-ed/moduler/blob/main/modul1.md)**
+**[Modul 1: Introduktion till AI](https://github.com/wasp-ed/moduler/blob/main/modul1.md)**
 
 **[Modul 2: Praktiskt arbete](https://github.com/wasp-ed/moduler/blob/main/modul2.md)**
 
