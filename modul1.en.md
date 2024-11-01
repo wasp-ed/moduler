@@ -14,7 +14,7 @@ AI, data, training data, machine learning, supervised learning, unsupervised lea
 
 Information about the module:
 
-This module is intended to be completed in two stages. The participants must first prepare individually (1 h) and then participate in a joint physical meeting with the other participants (1 h). Make sure that materials and questions for the preparation are available to the participants during the preparation time. The joint meeting is led by a supervisor. At that time, the participants need to have access to some digital device (computer, mobile, etc.) Total time required for both preparation and implementation is supposed to be 2 hours.
+This module is intended to be completed in two stages. The participants must first prepare individually (1 h) and then participate in a joint physical meeting with the other participants (1 h). Make sure that materials and questions for the preparation are available to the participants during the preparation time. The joint meeting is led by a facilitator. At that time, the participants need to have access to some digital device (computer, mobile, etc.) Total time required for both preparation and implementation is supposed to be 2 hours.
 
 ----------
 
