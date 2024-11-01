@@ -5,12 +5,12 @@
 
 Learning outcome:
 
--   Begreppsförståelse
--   Grundläggande förståelse för vad AI är/inte är
+-   Conceptual understanding
+-   Basic understanding of what AI is/isn't
 
-Nyckelbegrepp:
+Keywords:
 
-AI, data, träningsdata, maskininlärning, övervakad inlärning, oövervakad inlärning, förstärkt inlärning, djupinlärning, algoritm, neuronnät, autonomi, adaptivitet, GAN, LLM
+AI, data, training data, machine learning, supervised learning, unsupervised learning, reinforcement learning, deep learning, algorithm, neural network, autonomy, adaptivity, GAN, LLM
 
 Information om modulen:
 
