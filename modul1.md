@@ -103,3 +103,5 @@ _Genomförs förslagsvis i lite större grupper där flera av de mindre gruppern
 **GAN**  – Förkortning för Generative Adversarial Networks. En typ av maskininlärning där två neuronnät tävlar mot varandra. Det ena nätverket tränas att skapa ”fejkad” data utifrån träningsdatan och det andra nätverket tränas att avgöra vad i en datamängd som är ”fejk” och vad som är ”äkta”. Vart och ett av nätverken tvingas bli bättre i denna tävling i takt med att det andra nätverket blir bättre.
 
 **LLM**  – Förkortning för Large Language Models (Stora språkmodeller). Mycket stora neuronnät som tränats på stora mängder text. En färdig språkmodell tar en text som är inmatad som input och försöker upprepade gånger förutsäga nästa ord vilket ger en text som output. GPT-3 och GPT-4 som olika versioner av tjänsten ChatGPT bygger på är exempel på stora språkmodeller.
+
+**Generativ AI**  - AI som kan generera data: text, bild, film och musik.
