@@ -54,7 +54,7 @@ Reflect on the content above. Is there any ethical aspect that you think is part
 
 _Joint physical meeting all participants + facilitator (2 h)._
 
-**Praktiskt arbete (60 min):**
+**Practical work (60 min):**
 
 _Genomförs förslagsvis i mindre grupper om 3–4 deltagare. Handledaren går runt mellan grupperna och ser till att alla kommer i gång._
 
