@@ -22,11 +22,9 @@ _Individual preparation before joint meeting (1h)._
 
 **Experience/Inspiration (45 min):**
 
-All participants watch this film:
+All participants watch this film (Subtitles in English are available):
 
 [Artificial Intelligence - An attempt to explain AI in a simple way](https://api.kaltura.nordu.net/p/315/sp/31500/embedIframeJs/uiconf_id/23450066/partner_id/315?iframeembed=true&playerId=kaltura_player&entry_id=0_s5gaq3u2&flashvars%5BstreamerType%5D=auto&flashvars%5BlocalizationCode%5D=en&flashvars%5BleadWithHTML5%5D=true&flashvars%5BsideBarContainer.plugin%5D=true&flashvars%5BsideBarContainer.position%5D=left&flashvars%5BsideBarContainer.clickToClose%5D=true&flashvars%5Bchapters.plugin%5D=true&flashvars%5Bchapters.layout%5D=vertical&flashvars%5Bchapters.thumbnailRotator%5D=false&flashvars%5BstreamSelector.plugin%5D=true&flashvars%5BEmbedPlayer.SpinnerTarget%5D=videoHolder&flashvars%5BdualScreen.plugin%5D=true&flashvars%5Bhotspots.plugin%5D=1&flashvars%5BKaltura.addCrossoriginToIframe%5D=true&&wid=0_zzcork45)  (14 min)
-
-(Subtitles in English are available)
 
 Varje deltagare väljer  _ett_  av följande två spår:
 
