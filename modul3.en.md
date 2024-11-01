@@ -1,6 +1,6 @@
 [![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/modul3.md)
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul3.en.md)
-# Etik, möjligheter och risker
+# Ethics, opportunities and risks
 
 
 Mål:
