@@ -3,7 +3,7 @@
 # Introduction to AI
 
 
-Mål:
+Learning outcome:
 
 -   Begreppsförståelse
 -   Grundläggande förståelse för vad AI är/inte är
