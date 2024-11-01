@@ -46,9 +46,9 @@ What to expect from artificial intelligence av Ajay Agrawal, Joshua S. Gans och 
 
 [https://static1.squarespace.com/static/578cf5ace58c62ac649ec9ce/t/589a5bfe20099e9d2837a707/1486511104226/What+to+Expect+From+Artificial+Intelligence.pdf](https://static1.squarespace.com/static/578cf5ace58c62ac649ec9ce/t/589a5bfe20099e9d2837a707/1486511104226/What+to+Expect+From+Artificial+Intelligence.pdf) (6 sidor)
 
-**Individuell förberedande reflektion:**
+**Individual reflection:**
 
-Reflektera över innehållet ovan du tagit del av. Är det någon etisk aspekt som du tycker är extra viktig? Vad vill vi använda AI till? När lämpar det sig väl att använda AI?
+Reflect on the content above. Is there any ethical aspect that you think is particularly important? What do we want to use AI for? When is it appropriate to use AI?
 
 ---
 
