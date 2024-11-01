@@ -3,7 +3,7 @@
 # WASP-ED
 ## Resources for developing competence training for university lecturers (without specialized knowledge in AI)
 
-**[Module 1: Introduction](https://github.com/wasp-ed/moduler/blob/main/modul1.en.md)**
+**[Module 1: Introduction to AI](https://github.com/wasp-ed/moduler/blob/main/modul1.en.md)**
 
 **[Module 2: Practical activities](https://github.com/wasp-ed/moduler/blob/main/modul2.en.md)**
 
