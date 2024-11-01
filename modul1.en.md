@@ -18,9 +18,9 @@ This module is intended to be completed in two stages. The participants must fir
 
 ----------
 
-_Individuell förberedelse inför träff (1h)._
+_Individual preparation before joint meeting (1h)._
 
-**Upplevelse/Inspiration (45 min):**
+**Experience/Inspiration (45 min):**
 
 Alla deltagare ser denna:
 
