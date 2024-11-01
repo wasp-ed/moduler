@@ -20,9 +20,9 @@ This module is intended to be completed in two stages. The participants must fir
 
 _Individual preparation before joint meeting (1h)._
 
-**Upplevelse/Inspiration:**
+**Experience/Inspiration:**
 
-Titta på:
+Watch:
 
 How I'm fighting bias in algorithms \| Joy Buolamwini (9 min)
 
@@ -32,11 +32,11 @@ AI, ain’t I a Woman? - Joy Buolamwini (3 min)
 
 https://youtu.be/QxuyfWoVV98
 
-Läs:
+Read:
 
 Bhargava, R. (2018). The Algorithms Aren’t Biased, We Are. MIT Media Lab.
 
-[https://medium.com/mit-media-lab/the-algorithms-arent-biased-we-are-a691f5f6f6f2 ](https://medium.com/mit-media-lab/the-algorithms-arent-biased-we-are-a691f5f6f6f2)(5 min läsning)
+[https://medium.com/mit-media-lab/the-algorithms-arent-biased-we-are-a691f5f6f6f2 ](https://medium.com/mit-media-lab/the-algorithms-arent-biased-we-are-a691f5f6f6f2)(5 min reading)
 
 HAI Issue Brief: The European Commission’s Artificial Intelligence Act
 
