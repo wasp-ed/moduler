@@ -67,18 +67,17 @@ Break (15 min)**
 
 **Joint reflection/discussion (45 min):**
 
-_Genomförs förslagsvis i lite större grupper där flera av de mindre grupperna slagits ihop alternativt med samtliga deltagare. Handledaren styr samtalet._
+_Suggested to be carried out in slightly larger groups where several of the smaller groups have been combined, alternatively with all participants. The facilitator directs the conversation._
 
-Del I: Samhällsnyttan med AI
+Part I: The societal benefit of AI
 
-- Lyft kortfattat varje grupps olämpliga tillämpningar av AI.
-- Vad vill vi använda AI till? När lämpar det sig väl att använda AI?
+- Briefly discuss each group's inappropriate applications of AI.
+- What do we want to use AI for? When is it appropriate to use AI?
 
 \
-Del II: AI inom högre utbildning
+Part II: AI in Higher Education
 
-En av uppgifterna ni arbetade med innan rasten handlar om generativ AI. Ett exempel på generativ AI är tjänsten ChatGPT som lanserades i slutet av 2022 av forskningsbolaget OpenAI och som delvis finansieras av Microsoft. Nu har Microsoft redan börjat integrera generativ AI i en del av sina tjänster och planerar att fortsätta göra så även framöver.
+One of the tasks you worked on before the break is about generative AI. An example of generative AI is the ChatGPT service which was launched at the end of 2022 by the research company OpenAI and which is partially funded by Microsoft. Now Microsoft has already begun to integrate generative AI into some of its services and plans to continue doing so in the future.
 
-- Var går gränsen till fusk när generativ AI används inom studier och forskning?
-- När lämpar det sig väl att använda AI inom högre utbildning?
-
+- Where is the line drawn to cheating when generative AI is used in studies and research?
+- When is it appropriate to use AI in higher education?
