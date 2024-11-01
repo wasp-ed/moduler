@@ -1,3 +1,5 @@
+[![en](https://img.shields.io/badge/lang-sv-yellow.svg)](https://github.com/wasp-ed/moduler/blob/main/modul2.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul2en.md)
 # Module 2 - Practical work
 
 **Learning outcome:**  
