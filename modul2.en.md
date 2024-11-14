@@ -65,7 +65,7 @@ Conclude by discussing your experiences from the above exercise with the group. 
 
 This activity lets you build neural networks using Google’s Teachable Machine. It allows you to train a network to recognize different objects, sounds, or body positions using a relatively simple visual interface. Once you have created a "model," you can even export it for use on a website or on your computer to trigger events, like playing a sound when someone smiles at a webcam. The activity is conducted on-site, but please prepare by watching the video below.
 
-- Begin by watching the video [Try the Google Teachable machine](https://www.youtube.com/watch?v=v5SE5_MpBiw) before coming to the session.
+- Begin by watching the video [Explore the Google Teachable machine](https://www.youtube.com/watch?v=v5SE5_MpBiw) before coming to the session.
 - At the session, you will work in pairs to complete the task.
 - Go to [Google Teachable Machine](https://teachablemachine.withgoogle.com/).
 - Try training the network with different things, such as people, objects, or similar items.
