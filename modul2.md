@@ -36,7 +36,7 @@ Denna aktivitet går ut på att utforska djupinlärning med programmeringsmiljö
 
 **Beskrivning till deltagare:**
 
-I denna aktivitet ska du utforska olika sätt att formulera så kallade prompter (ungefär instruktioner) till en språkmodell. Det finns ett flertal tjänster online som alla går att använda kostnadsfritt, dock med vissa begränsningar. Vissa tjänster kräver dock inloggning. Du inleder med att ta del av videon som kort introducerar språkmodeller och promptning.
+I denna aktivitet ska du utforska olika sätt att formulera så kallade prompter (ungefär instruktioner) till en språkmodell. Det finns ett flertal tjänster online som alla går att använda kostnadsfritt, dock med vissa begränsningar. Vissa tjänster kräver dock inloggning. Du inleder med att ta del av videon [Introduktion till stora språkmodeller och promptning](https://youtu.be/npZ-khffSoQ).
 
 Därefter utforskar du minst en av nedanstående chatbottar:
 
