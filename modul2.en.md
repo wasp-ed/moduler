@@ -23,7 +23,7 @@ This module is designed to be completed in two steps. Participants will first ex
 
 This activity involves exploring deep learning using the MATLAB programming environment with simple, practical code. The example is based on image recognition. You have the opportunity to experiment with both code and the source for analysis. Don't hesitate to experiment—if something goes wrong, simply reload the page.
 
-- Start by watching the video.
+- Start by watching the video [Explore deep learning with MATLAB](https://www.youtube.com/watch?v=ELIcLRsX_wQ)
 - Then, go to the [MATLAB programming environment](https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#) and click on "Launch the example". 
 - Review the code and experiment, for instance, by adjusting the image source for analysis. Return to the video if needed.
 - Reload the page if you encounter issues or want to reset everything and try again.
@@ -34,7 +34,7 @@ This activity involves exploring deep learning using the MATLAB programming envi
 
 **Participant instructions:**
 
-In this activity, you will explore various ways to formulate prompts (essentially instructions) for a language model. Several online services are available for free, though some may require login. Begin by watching a video that briefly introduces language models and prompting.
+In this activity, you will explore various ways to formulate prompts (essentially instructions) for a language model. Several online services are available for free, though some may require login. Begin by watching the video [Introduction to large language models and prompting](https://youtu.be/npZ-khffSoQ).
 
 Next, explore at least one of the following chatbots:
 
@@ -65,7 +65,7 @@ Conclude by discussing your experiences from the above exercise with the group. 
 
 This activity lets you build neural networks using Google’s Teachable Machine. It allows you to train a network to recognize different objects, sounds, or body positions using a relatively simple visual interface. Once you have created a "model," you can even export it for use on a website or on your computer to trigger events, like playing a sound when someone smiles at a webcam. The activity is conducted on-site, but please prepare by watching the video below.
 
-- Begin by watching the video before coming to the session.
+- Begin by watching the video [Try the Google Teachable machine](https://www.youtube.com/watch?v=v5SE5_MpBiw) before coming to the session.
 - At the session, you will work in pairs to complete the task.
 - Go to [Google Teachable Machine](https://teachablemachine.withgoogle.com/).
 - Try training the network with different things, such as people, objects, or similar items.
