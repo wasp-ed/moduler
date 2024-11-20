@@ -4,8 +4,8 @@
 
 **Learning outcome**:
 
-- To develop a basic understanding and identify some uses of generative AI as an aid in teaching practice in higher education
-- To develop a basic understanding and identify some uses of Learning Analytics in higher education
+- To develop a basic understanding and identify some uses of generative AI as an aid in teaching practice in higher education.
+- To develop a basic understanding and identify some uses of Learning Analytics in higher education.
   
 **Keywords**:
 - Learning Analytics, Generative AI
@@ -14,7 +14,7 @@
 
 The latest generative AI tools are often user-friendly, encompassing everything from image creation programs to text and code generation, and do not require any special technical skills to be used. Digital aids such as spell checking, auto-generated text suggestions, and the ability to listen to text-based content have revolutionized the way we work with information and compensate for our shortcomings. Generative AI has become such a natural part of our daily lives that we no longer reflect on what thought processes they support and how it affects our knowledge, as well as what and how we learn.
 
-**The aim** of this module is to identify generative AI and Learning Analytics as aids in studies and teaching practice and to provide inspiration to develop the use of these to take advantage of the opportunities of digitalization for increased and improved learning among our students.
+This module explores the potential of generative AI and learning analytics as tools to enhance both learning and teaching practices. It **aims** to inspire the development of innovative approaches that leverage these technologies, harnessing the opportunities of digitalization to foster improved and enriched learning experiences for our students. By balancing opportunities with critical reflection on challenges, the module aims to equip educators with strategies for a thoughtful and effective use of generative AI in education.
 
 To create the conditions for this, the module contains two parts: one part that deals with describing and reflecting on and developing the use of generative AI as an aid in teaching and a second part that provides a basis for reflecting on and developing the use of Learning Analytics in teaching practice. Both part 1 and part 2 contain two exercises each and one of the tasks in each part is a practical exercise. It is possible to choose to do only a practical exercise because there are exciting opportunities in combining the use of generative AI with Learning Analytics.
 
