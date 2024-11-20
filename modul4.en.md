@@ -129,16 +129,20 @@ Evaluation:
 
 - What _opportunities_ did you identify that generative AI created based on how you used it?
 - What _challenges_ did you encounter based on how you used generative AI?
+- What _lessons_ did you learn and how will you use them in your future work?
 
 **4\.       Group work: Presentation, evaluation and discussion (approx. 1 h and 15 min)**\
 The _Chairperson_ allows each participant to present their practical implementation and the opportunities and challenges identified during the work for 7 minutes. When all participants have presented their individual exercises, the chairman gives room for discussion (about 20 minutes).
 
 The _Observer_ documents the presentations and the discussion that takes place based on the questions:
 
-- What opportunities are identified that generative AI can create in a teaching practice?
-- What challenges do we need to consider in the work with generative AI are identified?
+- What _opportunities_ are identified that generative AI can create in a teaching practice?
+- What _challenges_ do we need to consider in the work with generative AI are identified?
+- What _lessons_ were learned that may be important to use in the continued work?
 
 The discussion ends with the observer summarizing the discussion based on the above points.
+
+The goal of the summary work is to jointly highlight valuable lessons learned and insightful aspects that can be used to strengthen and develop future work.
 
 # Part 2 How can we understand and use Learning Analytics in teaching practice?
 
@@ -168,8 +172,8 @@ b) What uses can we see for Learning analytics in higher education?
 
 The chairperson keeps track of the time and, if necessary, distributes the floor between the participants and the time between questions. The observer documents the discussion based on the following aspects:
 
-- How does the discussion flow?
-- Are there any thresholds in the discussion and if so, what were they?
+- What topics or issues are covered in the discussion?
+- Are challenges identified in the discussion, and if so, which ones?
 - What particularly interesting posts are noted?
 
 **3\.       Summarize the discussion individually (3 minutes)**
@@ -178,13 +182,15 @@ All participants prepare to summarize in two minutes the most important insights
 
 The observer prepares to summarize in 3 minutes the discussion as a whole based on the following aspects:
 
-- How did the discussion flow?
-- Were there any thresholds in the discussion and if so, what were they?
+- What topics or issues are covered in the discussion?
+- Are challenges identified in the discussion, and if so, which ones?
 - What particularly interesting posts are noted?
 
 **1\.       Summarize the discussion in a group (5 x 2 minutes + 3 minutes)**
 
 The Chairperson allows each participant to reproduce their summary for two minutes each and finally gives the observer the last 3 minutes to reproduce their summary.
+
+The goal of the summary work is to jointly highlight valuable lessons learned and insightful aspects that can be used to strengthen and develop future work.
 
 ## Practical exercise 3 (2:45 h)
 
@@ -237,13 +243,17 @@ Evaluation:
 
 - What _opportunities_ did you identify with Learning Analytics based on how you used it?
 - What _challenges_ did you encounter based on how you used Learning Analytics?
+- What _lessons_ did you learn and how will you use them in your future work?
 
 **4\.       Group work: Presentation, evaluation and discussion (approx. 1 h and 15 min)**\
 The _Chairperson_ allows each participant to present their practical implementation and the opportunities and challenges identified during the work for 7 minutes. When all participants have presented their individual exercises, the chairman gives room for discussion (about 20 minutes).
 
 The _Observer_ documents the presentations and the discussion that takes place based on the questions:
 
-- What opportunities are identified that Learning Analytics can create in a teaching practice?
-- What challenges do we need to consider in the work with Learning Analytics are identified?
+- What _opportunities_ are identified that Learning Analytics can create in a teaching practice?
+- What _challenges_ do we need to consider in the work with Learning Analytics are identified?
+- What _lessons_ were learned that may be important to use in the continued work?
 
 The discussion ends with the observer summarizing the discussion based on the above points.
+
+The goal of the summary work is to jointly highlight valuable lessons learned and insightful aspects that can be used to strengthen and develop future work.
