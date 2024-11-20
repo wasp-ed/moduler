@@ -91,9 +91,9 @@ _Suggested to be carried out in slightly larger groups where several of the smal
 
 **Machine learning**  – An important subfield within AI. Systems that get better at a given task as the amount of experience and data increases. It is divided into the following three main areas:
 
-**Supervised learning**  – During the learning process providing the network with the “correct answer” along with the corresponding data.
+**Supervised learning**  – During the learning process providing the model with the “correct answer” along with the corresponding data.
 
-**Unsupervised learning**  – Means that during learning the network works without a “correct answer”, i.e., that the machine and algorithm tries to find structure in the data on its own.
+**Unsupervised learning**  – Means that during learning the model works without a “correct answer”, i.e., that the machine and algorithm tries to find structure in the data on its own.
 
 **Reinforcement learning**  – Involves one or more algorithms learning the correct solution by trial and error and reinforcing behaviours that lead to positive outcomes, while the software weakens behaviours that lead to negative outcomes.
 
