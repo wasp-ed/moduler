@@ -42,7 +42,7 @@ Filmmaterial 2 består av 3 fristående filmer med lärarexempel från olika äm
 
 ## Reflekterande diskussion film 1
 
-### Instruktion till deltagare
+### Instruktion till samtalsledare
 
 Skapa grupper med ungefär 6 deltagare i varje grupp. Utse en _ordförande_ och en _observatör_ i varje grupp.
 
@@ -54,7 +54,9 @@ _Observatören_ dokumenterar den diskussion som förs och förväntas återge oc
 
 a) Hur påverkar tillgången till hjälpmedel som generativ AI hur vi värderar kunskap och hur vi ser på lärande?
 
-b) Vilken kunskap blir relevant och möjlig att pröva i relation till generativ AI?
+b) Vilka kunskaper, färdigheter och förmågor blir viktiga att utveckla i relation till generativ AI och varför?
+
+c) Vilka kunskaper, färdigheter och förmågor blir/är möjliga och relevanta att pröva (vid examination) i relation till generativ AI och varför?
 
 **2\.       Diskutera frågorna i de indelade grupperna under 20 minuter.**
 
