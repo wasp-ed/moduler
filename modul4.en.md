@@ -4,7 +4,7 @@
 
 **Target audience**: Teachers in higher education
 
-The instructions in the module are written for the supervisor who will be in charge of the implementation of the module.
+The instructions in the module are written for the moderator who will be in charge of the implementation of the module.
 
 **Learning outcome**:
 
@@ -36,7 +36,7 @@ Based on how we understand generative AI as an aid, we need to ask ourselves a n
 
 ## Reflective discussion film 1
 
-### Instructions for participants
+### Instructions for moderator
 
 Create groups with about 6 participants in each group. Appoint a _chairperson_ and an _observer_ in each group.
 
