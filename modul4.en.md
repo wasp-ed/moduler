@@ -186,7 +186,7 @@ The observer prepares to summarize in 3 minutes the discussion as a whole based 
 
 The Chairperson allows each participant to reproduce their summary for two minutes each and finally gives the observer the last 3 minutes to reproduce their summary.
 
-## Practical exercise 3
+## Practical exercise 3 (2:45 h)
 
 **(Estimated time required: individual preparatory work approx. 1.5 h plus implementation, group discussion approx. 1 h and 15 min)**
 
