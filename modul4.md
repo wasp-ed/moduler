@@ -4,7 +4,7 @@
 
 **Målgrupp**: Lärare inom högre utbildning
 
-Instruktionerna i modulen är skrivna för den samtalsledare som ska hålla i genomförandet av modulen.
+Modulen är utformad för att kunna användas av lärare själva som underlag för kompetensutveckling inom den egna arbetsgruppen eller av pedagogiska utvecklare som underlag för kompetensutvecklande workshops eller högskolepedagogiska kurser för lärare. Modulen kan användas i sin helhet eller i delar, alternativt som inspiration för att själv skapa material. Den individ som ansvarar för genomförandet benämns _samtalsledare_ i materialet. Instruktionerna i modulerna är skrivna för den samtalsledare som ska hålla i genomförandet av modulen.
 
 **Mål**:
 
@@ -24,23 +24,23 @@ För att skapa förutsättning för detta innehåller modulen två delar: en del
 
 Utifrån hur vi förstår den generativa AI:n som hjälpmedel behöver vi ställa oss en rad frågor i vår undervisningspraktik. Vi behöver fundera över vad kunskap är i relation till hjälpmedel och vad hjälpmedlen kan stödja oss att göra. Vi behöver också fundera på hur vi värderar kunskap i relation till de hjälpmedel vi har tillgängliga – vad är viktigt att kunna och vilken kunskap uppfattas som mindre relevant eller till och med daterad. Ytterligare en aspekt att beakta är om och i så fall när hjälpmedel riskerar att hindra lärande eller till och med får oss att förlora kunskap och vilka risker det i så fall medför.
 
-## Förberedande material (tidsåtgång ca 30 min)
+## Förberedande material (ca 30 min)
 
 **Film 1** **Hur påverkar tillgången till generativ AI vår syn på och värdering av kunskap och lärande?**
 
-[Generativ AI och kunskap.mp4](https://youtu.be/s8zLhjEnals?si=EkI8A9mfx68fKKOL)
+[Generativ AI och kunskap.mp4](https://youtu.be/s8zLhjEnals?si=EkI8A9mfx68fKKOL) (10 min)
 
 **Filmmaterial 2** **Hur kan vi använda generativ AI inom högre utbildning?**
 
 Filmmaterial 2 består av 3 fristående filmer med lärarexempel från olika ämnen.
 
-[Informatik: Lärarförpromtning för att åstadkomma studentinteraktion under "parworkshops".mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_3xpb7utx/embed/dynamic)
+[Informatik: Lärarförpromtning för att åstadkomma studentinteraktion under "parworkshops".mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_3xpb7utx/embed/dynamic) (4 min)
 
-[Matematik: Samproducera generativ AI med studenter och med hjälp av AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_94cpxo07/embed/dynamic)
+[Matematik: Samproducera generativ AI med studenter och med hjälp av AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_94cpxo07/embed/dynamic) (3 min)
 
-[Musik: Musik och AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_jnbf21so/embed/dynamic)
+[Musik: Musik och AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_jnbf21so/embed/dynamic) (4:30 min)
 
-## Reflekterande diskussion film 1
+## Reflekterande diskussion film 1 (ca 60 min)
 
 ### Instruktion till samtalsledare
 
@@ -58,7 +58,7 @@ b) Vilka kunskaper, färdigheter och förmågor blir viktiga att utveckla i rela
 
 c) Vilka kunskaper, färdigheter och förmågor blir/är möjliga och relevanta att pröva (vid examination) i relation till generativ AI och varför?
 
-**2\.       Diskutera frågorna i de indelade grupperna under 20 minuter.**
+**2\.       Diskutera frågorna i de indelade grupperna. (30 minuter)**
 
 Ordföranden håller koll på tiden och fördelar vid behov ordet mellan deltagarna och tiden mellan frågorna. Observatören dokumenterar diskussionen utifrån aspekterna:
 
@@ -66,9 +66,9 @@ Ordföranden håller koll på tiden och fördelar vid behov ordet mellan deltaga
 - Identifieras utmaningar under diskussionen, och i så fall vilka?
 - Vilka särskilt intressanta inlägg noteras?
 
-**3\.       Sammanfatta diskussionen individuellt (3 minuter)**
+**3\.       Sammanfatta diskussionen individuellt. (3 minuter)**
 
-Alla deltagare förbereder sig att på en minut sammanfatta de viktigaste insikterna de tar med sig från diskussionen.
+Alla deltagare förbereder sig att på två minuter sammanfatta de viktigaste insikterna de tar med sig från diskussionen.
 
 Observatören förbereder sig att på 3 minuter sammanfatta diskussionen som helhet utifrån följande aspekter:
 
@@ -76,13 +76,13 @@ Observatören förbereder sig att på 3 minuter sammanfatta diskussionen som hel
 - Identifieras utmaningar under diskussionen, och i så fall vilka?
 - Vilka särskilt intressanta inlägg noteras?
 
-**4\.       Sammanfatta diskussionen i grupp (6 x 3 minuter)**
+**4\.       Sammanfatta diskussionen i grupp (5 x 2 minuter + 3 min)**
 
 Ordföranden låter varje deltagare återge sin sammanfattning under en minut vardera och ger avslutningsvis observatören de sista 3 minuterna för att återge sin sammanfattning.
 
 Målet med sammanfattningsarbetet är att tillsammans lyfta fram värdefulla lärdomar och insiktsfulla aspekter som kan användas för att stärka och utveckla det framtida arbetet.
 
-## Praktisk övning film 2
+## Praktisk övning film 2 (tidsåtgång 2:45 h)
 
 **(Beräknad tidsåtgång: individuellt förarbete ca 1,5 h plus genomförande, gruppdiskussion ca 1 h och 15 min)**
 
@@ -90,7 +90,7 @@ Målet med sammanfattningsarbetet är att tillsammans lyfta fram värdefulla lä
 
 Generativ AI kan användas i flera syften i undervisningspraktiken och av såväl dig som lärare som av våra studenter i deras lärande. Den här övningen handlar om att du som lärare först på egen hand ska reflektera över några frågor rörande användning av generativ AI och därefter identifiera ett sätt som du kan använda generativ AI på i din egen undervisningspraktik. Övningen sker i fyra steg (1) se filmen och reflektera överfrågorna, (2) identifiera och planera för hur du kan använda generativ AI i din undervisning (3) genomför din planering i din egen praktik (4) presentera och utvärdera ditt praktiska moment i din lärargrupp
 
-### Instruktion till deltagare
+### Instruktion till samtalsledare
 
 Skapa grupper med ungefär 6 deltagare i varje grupp. Utse en _ordförande_ och en _observatör_ i varje grupp. Grupperna används först i punkt 4 i instruktionerna nedan, men det är viktigt att grupperna och rollfördelningen utses redan på förhand. Det får gärna vara samma grupper, men en annan rollfördelning, som i diskussionen utifrån film 1.
 
@@ -114,8 +114,8 @@ Identifiera ett användningsområde för generativ AI som du vill prova i din un
 
 Genomför det användande som du planerat för. Under genomförandet funderar du över:
 
-- Vilka möjligheter skapar det sätt du valt att använda generativ AI i din undervisningspraktik?
-- Vilka utmaningar medför det sätt du valt att använda generativ AI i din undervisningspraktik?
+- Vilka _möjligheter_ skapar det sätt du valt att använda generativ AI i din undervisningspraktik?
+- Vilka _utmaningar_ medför det sätt du valt att använda generativ AI i din undervisningspraktik?
 
 Förbered en 7 minuters presentation och utvärdering av hur du använt generativ AI utifrån punkterna:
 
@@ -143,13 +143,13 @@ Diskussionen avslutas med att observatören sammanfattar diskussionen utifrån o
 
 # Del 2 Hur kan vi förstå och använda Learning Analytics i undervisningspraktiken?
 
-## Förberedande material
+## Förberedande material (ca 15 min)
 
 **Film 3** **Vad är Learning Analytics och hur kan den användas inom högre utbildning?**
 
 [Learning Analytics.mp4](https://cloud.oru.se/s/TCxWXzzt34wy8qo)
 
-## Reflekterande diskussion film 3
+## Reflekterande diskussion film 3 (ca 60 min)
 
 ### Instruktion till deltagare
 
@@ -165,12 +165,12 @@ a)       Vilka följder på lärares och studenters lärande kan komma av att vi
 
 b)      Vilka användningsområden kan vi se för Learning analytics inom högre utbildning?
 
-**2\.       Diskutera frågorna i de indelade grupperna under 20 minuter.**
+**2\.       Diskutera frågorna i de indelade grupperna under 30 minuter.**
 
 Ordföranden håller koll på tiden och fördelar vid behov ordet mellan deltagarna och tiden mellan frågorna. Observatören dokumenterar diskussionen utifrån aspekterna:
 
-- Hur flyter diskussionen?
-- Finns det några trösklar i diskussionen och i så fall vilka var de?
+- Vilka ämnen eller frågor tas upp i diskussionen?
+- Identifieras utmaningar under diskussionen, och i så fall vilka?
 - Vilka särskilt intressanta inlägg noteras?
 
 **3\.       Sammanfatta diskussionen individuellt (3 minuter)**
@@ -179,8 +179,8 @@ Alla deltagare förbereder sig att på en minut sammanfatta de viktigaste insikt
 
 Observatören förbereder sig att på 3 minuter sammanfatta diskussionen som helhet utifrån följande aspekter:
 
-- Hur flöt diskussionen?
-- Fanns det några trösklar i diskussionen och i så fall vilka var de?
+- Vilka ämnen eller frågor tas upp i diskussionen?
+- Identifieras utmaningar under diskussionen, och i så fall vilka?
 - Vilka särskilt intressanta inlägg noteras?
 
 **1\.       Sammanfatta diskussionen i grupp (6 + 3 minuter)**
@@ -238,13 +238,17 @@ Utvärdering:
 
 - Vilka _möjligheter_ identifierade du att Learning Analytics utifrån hur du använde det?
 - Vilka _utmaningar_ stötte du på utifrån hur du använde Learning Analytics?
+- Vilka lärdomar gjorde du och hur kommer du att använda dem i ditt fortsatta arbete?
 
 **4\.       Arbete i grupp: Presentation, utvärdering och diskussion (ca 1 h och 15 min)**\
 _Ordföranden_ låter varje deltagare under 7 minuter presentera sitt praktiska genomförande och de möjligheter och utmaningar som identifierats under arbetet. När samtliga deltagare har presenterat sina enskilda övningar så ger ordföranden utrymme för diskussion (ca 20 min).
 
 _Observatören_ dokumenterar presentationerna och diskussionen som förs utifrån frågorna:
 
-- Vilka möjligheter identifieras att Learning Analytics kan skapa i en undervisningspraktik?
-- Vilka utmaningar som vi behöver beakta i arbetet med Learning Analytics identifieras?
+- Vilka _möjligheter_ identifieras att Learning Analytics kan skapa i en undervisningspraktik?
+- Vilka _utmaningar_ som vi behöver beakta i arbetet med Learning Analytics identifieras?
+- Vilka lärdomar gjordes som kan vara viktiga att ta använda i det fortsatta arbetet?
 
 Diskussionen avslutas med att observatören sammanfattar diskussionen utifrån ovanstående punkter.
+
+Målet med sammanfattningsarbetet är att tillsammans lyfta fram värdefulla lärdomar och insiktsfulla aspekter som kan användas för att stärka och utveckla det framtida arbetet.
