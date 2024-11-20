@@ -4,7 +4,7 @@
 
 **Målgrupp**: Lärare inom högre utbildning
 
-Modulen är utformad för att kunna användas av lärare själva som underlag för kompetensutveckling inom den egna arbetsgruppen eller av pedagogiska utvecklare som underlag för kompetensutvecklande workshops eller högskolepedagogiska kurser för lärare. Modulen kan användas i sin helhet eller i delar, alternativt som inspiration för att själv skapa material. Den individ som ansvarar för genomförandet benämns _**samtalsledare**_ i materialet. Instruktionerna i modulerna är skrivna för den samtalsledare som ska hålla i genomförandet av modulen.
+Modulen är utformad för att kunna användas av lärare själva som underlag för kompetensutveckling inom den egna arbetsgruppen eller av pedagogiska utvecklare som underlag för kompetensutvecklande workshops eller högskolepedagogiska kurser för lärare. Modulen kan användas i sin helhet eller i delar, alternativt som inspiration för att själv skapa material. Den individ som ansvarar för genomförandet benämns _**samtalsledare**_ i materialet. Instruktionerna i modulen är skrivna för den samtalsledare som ska hålla i genomförandet av modulen och uppgifterna i sig vänder sig till lärare.
 
 **Mål**:
 
