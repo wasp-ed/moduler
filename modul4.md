@@ -20,11 +20,17 @@ Modulen utforskar möjligheter med generativ AI och Learning Analytics (LA) som 
 
 För att skapa förutsättning för detta innehåller modulen två delar: en del som handlar om att beskriva och reflektera över samt utveckla användandet av generativ AI som hjälpmedel i undervisning och en andra del som ger underlag för att reflektera över och utveckla användningen av Learning Analytics (LA) i undervisningspraktiken. Både del 1 och del 2 innehåller två övningar vardera och en av uppgifterna i varje del är en praktisk övning. Det går att välja att endast göra en praktisk övning eftersom det finns spännande möjligheter med att kombinera användningen av generativ AI med Learning Analytics.
 
-# Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?
+**Innehållsförteckning**
+
+<a href="Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?.html#del1">Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?</a>
+
+  <a href="Förberedande material.html#forbm">Förberedande material</a>
+
+# <p id="del1">Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?</p>
 
 Utifrån hur vi förstår den generativa AI:n som hjälpmedel behöver vi ställa oss en rad frågor i vår undervisningspraktik. Vi behöver fundera över vad kunskap är i relation till hjälpmedel och vad hjälpmedlen kan stödja oss att göra. Vi behöver också fundera på hur vi värderar kunskap i relation till de hjälpmedel vi har tillgängliga – vad är viktigt att kunna och vilken kunskap uppfattas som mindre relevant eller till och med daterad. Ytterligare en aspekt att beakta är om och i så fall när hjälpmedel riskerar att hindra lärande eller till och med får oss att förlora kunskap och vilka risker det i så fall medför.
 
-## Förberedande material (ca 30 min)
+## <p id="forbm">Förberedande material</p> (ca 30 min)
 
 **Film 1** **Hur påverkar tillgången till generativ AI vår syn på och värdering av kunskap och lärande?**
 
