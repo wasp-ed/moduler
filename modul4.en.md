@@ -32,9 +32,15 @@ Based on how we understand generative AI as an aid, we need to ask ourselves a n
 
 **Film 2** **How can we use generative AI in higher education?**
 
-[Generativ AI i utbildning.mp4](https://cloud.oru.se/s/ZMTHwikb2m83int)
+Film material 2 consists of three independent films with examples of teaching from different subjects.
 
-## Reflective discussion film 1
+[Informatik: Lärarförpromtning för att åstadkomma studentinteraktion under "parworkshops".mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_3xpb7utx/embed/dynamic) (4 min)
+
+[Matematik: Samproducera generativ AI med studenter och med hjälp av AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_94cpxo07/embed/dynamic) (3 min)
+
+[Musik: Musik och AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_jnbf21so/embed/dynamic) (4:30 min)
+
+## Reflective discussion film 1 (60 min)
 
 ### Instructions for moderator
 
@@ -52,7 +58,7 @@ b) What knowledge, skills and abilities will be important to develop in relation
 
 c) What knowledge, skills and abilities are possible and relevant to test (during examination) in relation to generative AI and why?
 
-**2\.       Discuss the questions in the divided groups for 20 minutes.**
+**2\.       Discuss the questions in the divided groups for 30 minutes.**
 
 The chairperson keeps track of the time and, if necessary, distributes the floor between the participants and the time between questions. The observer documents the discussion based on the following aspects:
 
@@ -62,7 +68,7 @@ The chairperson keeps track of the time and, if necessary, distributes the floor
 
 **3\.       Summarize the discussion individually (3 minutes)**
 
-All participants prepare to summarize in one minute the most important insights they take away from the discussion.
+All participants prepare to summarize in two minutes the most important insights they take away from the discussion.
 
 The observer prepares to summarize in 3 minutes the discussion as a whole based on the following aspects:
 
@@ -70,13 +76,13 @@ The observer prepares to summarize in 3 minutes the discussion as a whole based 
 - Are challenges identified in the discussion, and if so, which ones?
 - What particularly interesting posts are noted?
 
-**4\.       Summarize the discussion in group (6 x 3 minutes)**
+**4\.       Summarize the discussion in group (5 x 2 minutes + 3 minutes)**
 
-The Chairperson allows each participant to reproduce their summary for one minute each and finally gives the observer the last 3 minutes to reproduce their summary.
+The Chairperson allows each participant to reproduce their summary for two minutes each and finally gives the observer the last 3 minutes to reproduce their summary.
 
 The aim of the summary work is to collaboratively identify valuable lessons and key insights that can be leveraged to strengthen and enhance future efforts.
 
-## Practical exercise film 2
+## Practical exercise film 2 (2:45 h)
 
 **(Estimated time required: individual preparatory work approx. 1.5 h plus implementation, group discussion approx. 1 h and 15 min)**
 
@@ -136,11 +142,11 @@ The discussion ends with the observer summarizing the discussion based on the ab
 
 # Part 2 How can we understand and use Learning Analytics in teaching practice?
 
-## Preparatory materials
+## Preparatory materials (25 min)
 
 **Film 3** **What is Learning Analytics and how can it be used in higher education?**
 
-[Learning Analytics.mp4](https://cloud.oru.se/s/TCxWXzzt34wy8qo)
+[Learning Analytics.mp4](https://cloud.oru.se/s/TCxWXzzt34wy8qo) (15 min)
 
 ## Reflective Discussion Film 3
 
@@ -158,7 +164,7 @@ a) What consequences on teachers' and students' learning can come from using gen
 
 b) What uses can we see for Learning analytics in higher education?
 
-**2\.       Discuss the questions in the divided groups for 20 minutes.**
+**2\.       Discuss the questions in the divided groups for 30 minutes.**
 
 The chairperson keeps track of the time and, if necessary, distributes the floor between the participants and the time between questions. The observer documents the discussion based on the following aspects:
 
@@ -168,7 +174,7 @@ The chairperson keeps track of the time and, if necessary, distributes the floor
 
 **3\.       Summarize the discussion individually (3 minutes)**
 
-All participants prepare to summarize in one minute the most important insights they take away from the discussion.
+All participants prepare to summarize in two minutes the most important insights they take away from the discussion.
 
 The observer prepares to summarize in 3 minutes the discussion as a whole based on the following aspects:
 
@@ -176,11 +182,11 @@ The observer prepares to summarize in 3 minutes the discussion as a whole based 
 - Were there any thresholds in the discussion and if so, what were they?
 - What particularly interesting posts are noted?
 
-**1\.       Summarize the discussion in a group (6 + 3 minutes)**
+**1\.       Summarize the discussion in a group (5 x 2 minutes + 3 minutes)**
 
-The Chairperson allows each participant to reproduce their summary for one minute each and finally gives the observer the last 3 minutes to reproduce their summary.
+The Chairperson allows each participant to reproduce their summary for two minutes each and finally gives the observer the last 3 minutes to reproduce their summary.
 
-## Practical exercise film 2 and 3
+## Practical exercise 3
 
 **(Estimated time required: individual preparatory work approx. 1.5 h plus implementation, group discussion approx. 1 h and 15 min)**
 
