@@ -4,7 +4,7 @@
 
 **Målgrupp**: Lärare inom högre utbildning
 
-Instruktionerna i modulen är skrivna för den handledare som ska hålla i genomförandet av modulen.
+Instruktionerna i modulen är skrivna för den samtalsledare som ska hålla i genomförandet av modulen.
 
 **Mål**:
 
