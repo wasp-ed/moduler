@@ -22,15 +22,15 @@ För att skapa förutsättning för detta innehåller modulen två delar: en del
 
 **Innehållsförteckning**
 
-<a href="Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?.html#del1">Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?</a>
+Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?
+    
+Förberedande material (ca 30 min)
 
-  <a href="Förberedande material.html#forbm">Förberedande material</a>
-
-# <p id="del1">Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?</p>
+# Del 1 Hur kan vi förstå och använda generativ AI i undervisningspraktiken?
 
 Utifrån hur vi förstår den generativa AI:n som hjälpmedel behöver vi ställa oss en rad frågor i vår undervisningspraktik. Vi behöver fundera över vad kunskap är i relation till hjälpmedel och vad hjälpmedlen kan stödja oss att göra. Vi behöver också fundera på hur vi värderar kunskap i relation till de hjälpmedel vi har tillgängliga – vad är viktigt att kunna och vilken kunskap uppfattas som mindre relevant eller till och med daterad. Ytterligare en aspekt att beakta är om och i så fall när hjälpmedel riskerar att hindra lärande eller till och med får oss att förlora kunskap och vilka risker det i så fall medför.
 
-## <p id="forbm">Förberedande material</p> (ca 30 min)
+## Förberedande material (ca 30 min)
 
 **Film 1** **Hur påverkar tillgången till generativ AI vår syn på och värdering av kunskap och lärande?**
 
