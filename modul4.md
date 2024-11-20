@@ -2,7 +2,9 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul4.en.md)
 # Kompetensutvecklade aktivitet 4 – Generativ AI och Learning Analytics i utbildning
 
-**Målgrupp**:  Lärare inom högre utbildning
+**Målgrupp**: Lärare inom högre utbildning
+
+Instruktionerna i modulen är skrivna för den handledare som ska hålla i genomförandet av modulen.
 
 **Mål**:
 
