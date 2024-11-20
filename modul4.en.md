@@ -48,14 +48,16 @@ The _Observer_ documents the discussion that is taking place and is expected to 
 
 a) How does access to assistive technology such as generative AI affect how we value knowledge and how we view learning?
 
-b) What knowledge will be relevant and possible to test in relation to generative AI?
+b) What knowledge, skills and abilities will be important to develop in relation to generative AI and why?
+
+c) What knowledge, skills and abilities are possible and relevant to test (during examination) in relation to generative AI and why?
 
 **2\.       Discuss the questions in the divided groups for 20 minutes.**
 
 The chairperson keeps track of the time and, if necessary, distributes the floor between the participants and the time between questions. The observer documents the discussion based on the following aspects:
 
-- How does the discussion flow?
-- Are there any thresholds in the discussion and if so, what were they?
+- What topics or issues are covered in the discussion?
+- Are challenges identified in the discussion, and if so, which ones?
 - What particularly interesting posts are noted?
 
 **3\.       Summarize the discussion individually (3 minutes)**
@@ -64,13 +66,15 @@ All participants prepare to summarize in one minute the most important insights 
 
 The observer prepares to summarize in 3 minutes the discussion as a whole based on the following aspects:
 
-- How did the discussion flow?
-- Were there any thresholds in the discussion and if so, what were they?
+- What topics or issues are covered in the discussion?
+- Are challenges identified in the discussion, and if so, which ones?
 - What particularly interesting posts are noted?
 
 **4\.       Summarize the discussion in group (6 x 3 minutes)**
 
 The Chairperson allows each participant to reproduce their summary for one minute each and finally gives the observer the last 3 minutes to reproduce their summary.
+
+The aim of the summary work is to collaboratively identify valuable lessons and key insights that can be leveraged to strengthen and enhance future efforts.
 
 ## Practical exercise film 2
 
