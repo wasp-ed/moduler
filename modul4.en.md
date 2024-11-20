@@ -22,7 +22,7 @@ In this purpose, the module contains two parts: one part that deals with describ
 
 # Part 1 How can we understand and use generative AI in teaching practice?
 
-Based on how we understand generative AI as an aid, we need to ask ourselves a number of questions in our teaching practice. We need to think about what knowledge is in relation to assistive devices and what the assistive devices can support us to do. We also need to think about how we value knowledge in relation to the tools we have available – what is important to know and what knowledge is perceived as less relevant or even dated. Another aspect to consider is whether and if so, when assistive devices risk hindering learning or even causing us to lose knowledge, and if so, what risks this entails.
+Based on how we understand generative AI as an aid, we need to ask ourselves a number of questions in our teaching practice. We need to think about what knowledge is in relation to asssistive technologies and what the asssistive technologies can support us to do. We also need to think about how we value knowledge in relation to the tools we have available – what is important to know and what knowledge is perceived as less relevant or even dated. Another aspect to consider is whether and if so, when assistive devices risk hindering learning or even causing us to lose knowledge, and if so, what risks this entails.
 
 ## Preparatory material (time required approx. 30 min)
 
