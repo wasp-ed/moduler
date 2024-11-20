@@ -2,6 +2,10 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/wasp-ed/moduler/blob/main/modul4.en.md)
 # Generative AI and Learning Analytics in education
 
+**Target audience**: Teachers in higher education
+
+The instructions in the module are written for the supervisor who will be in charge of the implementation of the module.
+
 **Learning outcome**:
 
 - To develop a basic understanding and identify some uses of generative AI as an aid in teaching practice in higher education.
