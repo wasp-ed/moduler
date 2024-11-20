@@ -32,8 +32,9 @@ Utifrån hur vi förstår den generativa AI:n som hjälpmedel behöver vi ställ
 
 **Film 2** **Hur kan vi använda generativ AI inom högre utbildning?**
 
-[Informatik:Lärarförpromtning för att åstadkomma studentinteraktion under "parworkshops".mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_3xpb7utx/embed/dynamic)
-
+[Informatik: Lärarförpromtning för att åstadkomma studentinteraktion under "parworkshops".mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_3xpb7utx/embed/dynamic)
+[Matematik: Samproducera generativ AI med studenter och med hjälp av AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_94cpxo07/embed/dynamic)
+[Musik: Musik och AI.mp4](https://api.kaltura.nordu.net/index.php/extwidget/preview/partner_id/315/uiconf_id/23450068/entry_id/0_jnbf21so/embed/dynamic)
 ## Reflekterande diskussion film 1
 
 ### Instruktion till deltagare
