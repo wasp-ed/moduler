@@ -62,8 +62,8 @@ b) Vilken kunskap blir relevant och möjlig att pröva i relation till generativ
 
 Ordföranden håller koll på tiden och fördelar vid behov ordet mellan deltagarna och tiden mellan frågorna. Observatören dokumenterar diskussionen utifrån aspekterna:
 
-- Hur flyter diskussionen?
-- Finns det några trösklar i diskussionen och i så fall vilka var de?
+- Vilka ämnen eller frågor tas upp i diskussionen?
+- Identifieras utmaningar under diskussionen, och i så fall vilka?
 - Vilka särskilt intressanta inlägg noteras?
 
 **3\.       Sammanfatta diskussionen individuellt (3 minuter)**
@@ -72,13 +72,15 @@ Alla deltagare förbereder sig att på en minut sammanfatta de viktigaste insikt
 
 Observatören förbereder sig att på 3 minuter sammanfatta diskussionen som helhet utifrån följande aspekter:
 
-- Hur flöt diskussionen?
-- Fanns det några trösklar i diskussionen och i så fall vilka var de?
+- Vilka ämnen eller frågor tas upp i diskussionen?
+- Identifieras utmaningar under diskussionen, och i så fall vilka?
 - Vilka särskilt intressanta inlägg noteras?
 
 **4\.       Sammanfatta diskussionen i grupp (6 x 3 minuter)**
 
 Ordföranden låter varje deltagare återge sin sammanfattning under en minut vardera och ger avslutningsvis observatören de sista 3 minuterna för att återge sin sammanfattning.
+
+Målet med sammanfattningsarbetet är att tillsammans lyfta fram värdefulla lärdomar och insiktsfulla aspekter som kan användas för att stärka och utveckla det framtida arbetet.
 
 ## Praktisk övning film 2
 
@@ -127,6 +129,7 @@ Utvärdering:
 
 - Vilka _möjligheter_ identifierade du att generativ AI skapade utifrån hur du använde det?
 - Vilka _utmaningar_ stötte du på utifrån hur du använde generativ AI?
+- Vilka _lärdomar_ gjorde du och hur kommer du att använda dem i ditt fortsatta arbete?
 
 **4\.       Arbete i grupp: Presentation, utvärdering och diskussion (ca 1 h och 15 min)**\
 _Ordföranden_ låter varje deltagare under 7 minuter presentera sitt praktiska genomförande och de möjligheter och utmaningar som identifierats under arbetet. När samtliga deltagare har presenterat sina enskilda övningar så ger ordföranden utrymme för diskussion (ca 20 min).
