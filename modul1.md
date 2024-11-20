@@ -90,9 +90,9 @@ _Genomförs förslagsvis i lite större grupper där flera av de mindre gruppern
 
 **Maskininlärning**  – Ett viktigt delområde inom AI. System som blir bättre på en given uppgift när mängden erfarenhet och data ökar. Delas in i följande tre huvudsakliga områden:
 
-**Övervakad inlärning**  – Sker genom att man förser nätverket med både data och facit.
+**Övervakad inlärning**  – Sker genom att man förser modellen med både data och facit.
 
-**Oövervakad inlärning**  – Innebär att nätverket får arbeta helt utan förkunskaper, det vill säga att maskin och algoritm får inhämta såväl indata som utfall på egen hand.
+**Oövervakad inlärning**  – Innebär att modellen får arbeta helt utan förkunskaper, det vill säga att maskin och algoritm får inhämta såväl indata som utfall på egen hand.
 
 **Förstärkt inlärning**  – Innebär att en eller flera algoritmer lär sig den rätta lösningen genom att prova sig fram och förstärka beteenden som leder till positivt resultat, samtidigt som mjukvaran försvagar beteenden som leder till negativt resultat.
 
