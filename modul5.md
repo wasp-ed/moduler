@@ -27,9 +27,7 @@ Deltagare inleder med att individuellt se en video som dels ger en bakgrund och 
 
 **Beskrivning till deltagare:**
 
-I denna aktivitet ska du ta del av en video som introducerar ämnesspecifik AI och ger några exempel på tillämpningar. Syftet är att ge förutsättningar att arbeta vidare i de följande två stegen.
-
-[https://www.youtube.com/watch?v=Ypm2NwD9XVU](oembed:https://www.youtube.com/watch?v=Ypm2NwD9XVU)
+I denna aktivitet ska du ta del av en [video som introducerar ämnesspecifik AI](https://www.youtube.com/watch?v=Ypm2NwD9XVU) och ger några exempel på tillämpningar. Syftet är att ge förutsättningar att arbeta vidare i de följande två stegen.
 
 ### Steg 2, identifiera AI-tillämpningar (45 min)
 
@@ -55,7 +53,7 @@ Deltagare inleder med att ta del av en videointroduktion till området där mode
 
 **Beskrivning till deltagare:**
 
-I denna aktivitet ska du ta del av en video som introducerar ramverket TPACK, tillsammans med några exempel på tillämpningar av AI inom ämnesspecifik undervisning. Syftet är att ge utgångspunkter för diskussionen i steg 2. [https://www.youtube.com/watch?v=24HYMy000Ro](oembed:https://www.youtube.com/watch?v=24HYMy000Ro)
+I denna aktivitet ska du ta del av en [video som introducerar ramverket TPACK](https://www.youtube.com/watch?v=24HYMy000Ro), tillsammans med några exempel på tillämpningar av AI inom ämnesspecifik undervisning. Syftet är att ge utgångspunkter för diskussionen i steg 2. 
 
 Efter du har tagit del av videon ska du göra en individuell reflektion där du identifierar de områden som du upplever är mest utmanande att undervisa kring. Här bör fokus ligga på de utmaningar som följer av att undervisa inom ditt specifika ämnesområde, det vill säga ett mer ämnesdidaktiskt fokus. Skriv ner de områden du identifierar och skriv även en kort motivering till varför du upplever dem som utmanande.
 
