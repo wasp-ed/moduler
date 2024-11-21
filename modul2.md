@@ -25,8 +25,8 @@ Denna modul är tänkt att genomföras i två steg. Deltagarna får inledningsvi
 Denna aktivitet går ut på att utforska djupinlärning med programmeringsmiljön MATLAB, genom enkel, praktisk kod. Exemplet bygger på bildigenkänning. I miljön har du möjlighet att experimentera med att justera såväl kod som källa för analys. Var inte rädd för att experimentera, om något blir tokigt är det bara att ladda om sidan.
 
 - Börja med att ta del av videon [Prova djupinlärning med MATLAB](https://www.youtube.com/watch?v=ELIcLRsX_wQ)
-- Gå därefter till programmeringsmiljön MATLAB via [https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#](https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#) och klicka Launch the example
-- Titta på koden och experimentera genom att till exempel justera källa för bilden som ska analyseras. Gå tillbaka till videon vid behov.
+- Gå därefter till programmeringsmiljön MATLAB via [https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#](https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#) och klicka Open and Explore This Interactive Example in MATLAB Online.
+- Titta på koden och experimentera genom att till exempel justera källa för bilden som ska analyseras till en URL för en bild på nätet. Gå tillbaka till videon vid behov.
 - Ladda om sidan om det blir problem eller om du vill nollställa allt och testa på nytt.
 
 
