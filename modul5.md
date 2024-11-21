@@ -23,7 +23,7 @@ Modulen är uppdelad i två delar. Den första delen rör AI-tillämpningar inom
 
 ### Steg 1, ta del av video (15 min)
 
-Deltagare inleder med att individuellt se en video som dels ger en bakgrund och dels presenterar några exempel på AI-tillämpningar inom olika ämnesområden.
+*Deltagare inleder med att individuellt se en video som dels ger en bakgrund och dels presenterar några exempel på AI-tillämpningar inom olika ämnesområden.*
 
 **Beskrivning till deltagare:**
 
@@ -39,7 +39,7 @@ Denna aktivitet går ut på att identifiera AI-tillämpningar inom det egna ämn
 
 ### Steg 3, påbörja utvecklingsarbete (60 min)
 
-Deltagare arbetar i grupper om 4-6 personer där de startar ett arbete med att integrera innehåll i befintliga eller nya kurser.
+*Deltagare arbetar i grupper om 4-6 personer där de startar ett arbete med att integrera innehåll i befintliga eller nya kurser.*
 
 **Beskrivning till deltagare:**
 
@@ -49,7 +49,7 @@ I det avslutande steget ska ni, utifrån arbetet i tidigare steg, gruppvis arbet
 
 ### Steg 1, ta del av video och reflektera (15 + 15 min)
 
-Deltagare inleder med att ta del av en videointroduktion till området där modellen TPACK introduceras för att ge ett perspektiv kring teknologiers roll i ämnesspecifik undervisning. Därefter gör de en individuell reflektion kring sin egen lärarpraktik med fokus på de områden som de upplever som mest utmanande att undervisa kring givet ämnesområdets specifika förutsättningar.
+*Deltagare inleder med att ta del av en videointroduktion till området där modellen TPACK introduceras för att ge ett perspektiv kring teknologiers roll i ämnesspecifik undervisning. Därefter gör de en individuell reflektion kring sin egen lärarpraktik med fokus på de områden som de upplever som mest utmanande att undervisa kring givet ämnesområdets specifika förutsättningar.*
 
 **Beskrivning till deltagare:**
 
@@ -59,7 +59,7 @@ Efter du har tagit del av videon ska du göra en individuell reflektion där du 
 
 ### Steg 2, diskutera och dela erfarenheter av användning av AI inom egna lärarpraktiken med utgångspunkt i ämnesdidaktiska behov och förutsättningar (1 h och 30 min)
 
-Deltagare diskuterar möjlig användning av AI inom sin ämnesspecifika lärarpraktik utifrån specifika frågor.
+*Deltagare diskuterar möjlig användning av AI inom sin ämnesspecifika lärarpraktik utifrån specifika frågor.*
 
 **Beskrivning till deltagare:**
 
