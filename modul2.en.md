@@ -24,8 +24,8 @@ This module is designed to be completed in two steps. Participants will first ex
 This activity involves exploring deep learning using the MATLAB programming environment with simple, practical code. The example is based on image recognition. You have the opportunity to experiment with both code and the source for analysis. Don't hesitate to experiment—if something goes wrong, simply reload the page.
 
 - Start by watching the video [Explore deep learning with MATLAB](https://www.youtube.com/watch?v=ELIcLRsX_wQ)
-- Then, go to the [MATLAB programming environment](https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#) and click on "Launch the example". 
-- Review the code and experiment, for instance, by adjusting the image source for analysis. Return to the video if needed.
+- Then, go to the [MATLAB programming environment](https://se.mathworks.com/campaigns/offers/deep-learning-try-in-browser.html#) and click on "Open and Explore This Interactive Example in MATLAB Online". 
+- Review the code and experiment, for instance, by adjusting the image source for analysis to a URL for an online image. Return to the video if needed.
 - Reload the page if you encounter issues or want to reset everything and try again.
 
 ### Step 2, Prompting Large Language Models (60 minutes)
