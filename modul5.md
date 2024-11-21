@@ -31,7 +31,7 @@ I denna aktivitet ska du ta del av en [video som introducerar ämnesspecifik AI]
 
 ### Steg 2, identifiera AI-tillämpningar (45 min)
 
-Deltagare genomför en gemensam aktivitet där de arbetar två och två med att identifiera AI-tillämpningar inom det egna ämnesområdet.
+*Deltagare genomför en gemensam aktivitet där de arbetar två och två med att identifiera AI-tillämpningar inom det egna ämnesområdet.*
 
 **Beskrivning till deltagare:**
 
