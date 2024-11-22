@@ -34,6 +34,10 @@ Track 1 (less technical)
 
 Hello AI – An Introduction to Artificial Intelligence (2019)
 
+or as an alternative:
+[https://www.youtube.com/watch?v=3pqdX7ou2qo&list=PLrRFVIzrjCa7nhiQrUX2n4mTea4Oaq2gn](https://www.youtube.com/watch?v=3pqdX7ou2qo&list=PLrRFVIzrjCa7nhiQrUX2n4mTea4Oaq2gn) (6 short videos, together 32 min)
+Intro AI for anyone (by LTU, 2024)
+
 Track 2 (a bit more technical)
 
 [https://play.gu.se/media/t/0_44httdls](https://play.gu.se/media/t/0_44httdls)  (24 min)
