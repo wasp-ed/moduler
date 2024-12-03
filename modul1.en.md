@@ -37,7 +37,7 @@ Hello AI – An Introduction to Artificial Intelligence (2019)
 _or_:
 [https://www.youtube.com/watch?v=3pqdX7ou2qo&list=PLrRFVIzrjCa7nhiQrUX2n4mTea4Oaq2gn](https://www.youtube.com/watch?v=3pqdX7ou2qo&list=PLrRFVIzrjCa7nhiQrUX2n4mTea4Oaq2gn) (6 short videos, together 32 min)
 
-Intro AI for anyone (2024)
+Introduction to AI (2024)
 
 Track 2 (a bit more technical)
 
