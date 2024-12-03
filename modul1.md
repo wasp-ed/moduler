@@ -37,6 +37,7 @@ Hej AI – En introduktion till artificiell intelligens (2019)
 _eller_:
 [https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o](https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o) (6 korta filmer, totalt 32 min)
 
+
 Spår 2 (lite mer tekniskt)
 
 [https://play.gu.se/media/t/0_44httdls](https://play.gu.se/media/t/0_44httdls)  (24 min)
