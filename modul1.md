@@ -31,10 +31,11 @@ Varje deltagare väljer  _ett_  av följande två spår:
 Spår 1 (mindre tekniskt)
 
 [https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/](https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/)  (31 min)
-eller:
-[https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o](https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o)(6 korter videor, tillsammans 32 min)
 
 Hej AI – En introduktion till artificiell intelligens (2019)
+
+_eller_:
+[https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o](https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o) (6 korta filmer, totalt 32 min)
 
 Spår 2 (lite mer tekniskt)
 
