@@ -28,6 +28,8 @@ Alla deltagare ser denna:
 
 Varje deltagare väljer  _ett_  av följande två spår:
 
+.
+
 Spår 1 (mindre tekniskt)
 
 [https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/](https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/)  (31 min)
