@@ -40,6 +40,8 @@ _eller som alternativ_:
 
 Introduktion till AI (2024)
 
+.
+
 Spår 2 (lite mer tekniskt)
 
 [https://play.gu.se/media/t/0_44httdls](https://play.gu.se/media/t/0_44httdls)  (24 min)
