@@ -28,6 +28,8 @@ All participants watch this film (subtitles in English are available):
 
 All participants choose  _one_  of the following two tracks. (The podcast and Jonas film are only available in Swedish):
 
+.
+
 Track 1 (less technical)
 
 [https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/](https://www.listennotes.com/podcasts/hej-ai/en-introduktion-till-iEGTBk8HCg2/)  (31 min)
@@ -40,6 +42,8 @@ _or as an alternative_:
 
 Introduction to AI (2024)
 
+.
+
 Track 2 (a bit more technical)
 
 [https://play.gu.se/media/t/0_44httdls](https://play.gu.se/media/t/0_44httdls)  (24 min)
@@ -47,6 +51,8 @@ Track 2 (a bit more technical)
 Introduction to AI by Jonas Ivarsson (2019)
 
 Make sure the list of key concepts is available to participants as a PDF.
+
+.
 
 **Individual reflection (15 min):**
 
