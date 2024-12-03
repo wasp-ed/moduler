@@ -52,6 +52,8 @@ Introduktion till AI av Jonas Ivarsson (2019)
 
 Se till att listan med nyckelbegrepp finns tillgänglig för deltagarna som PDF.
 
+.
+
 **Individuell förberedande reflektion (15 min):**
 
 -   Känner du till några tekniska lösningar idag som använder AI för att fungera?
