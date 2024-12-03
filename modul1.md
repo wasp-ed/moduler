@@ -35,6 +35,7 @@ Spår 1 (mindre tekniskt)
 Hej AI – En introduktion till artificiell intelligens (2019)
 
 _eller som alternativ_:
+
 [https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o](https://www.youtube.com/watch?v=sLjhRwbzMvY&list=PLrRFVIzrjCa5sIaTclqvFcjHr8IeAlg8o) (6 korta filmer, totalt 32 min)  
 
 Introduktion till AI (2024)
